@@ -1,0 +1,869 @@
+processing user features...
+processing user verified...
+believable by few:
+verified, unverified
+40 39
+
+believable by many:
+verified, unverified
+1195 518
+pvalue: 0.0006756045129415586
+
+
+processing user_followers_count...
+believable by few:
+mean, median, std
+3081054.860759494 184491.0 15670889.9620427
+
+believable by many:
+mean, median, std
+3923107.2510215994 344458.0 14684536.556769291
+pvalue: 0.006692210849853864
+
+
+processing user_friends_count...
+believable by few:
+mean, median, std
+3726.9620253164558 964.0 9593.364101324974
+
+believable by many:
+mean, median, std
+6313.266199649737 1408.0 18626.035812673188
+pvalue: 0.0317187097284504
+
+
+processing user_favourites_count...
+believable by few:
+mean, median, std
+55143.06329113924 15698.0 90535.3597528218
+
+believable by many:
+mean, median, std
+47733.92235843549 13479.0 124308.77763597734
+pvalue: 0.33803798552841813
+
+
+processing user_listed_count...
+believable by few:
+mean, median, std
+7236.5822784810125 630.0 27633.578903493108
+
+believable by many:
+mean, median, std
+8929.677174547578 2011.0 23824.81022747671
+pvalue: 0.0016944665405807457
+
+
+processing user_statuses_count...
+believable by few:
+mean, median, std
+68322.83544303797 25300.0 110322.37547906757
+
+believable by many:
+mean, median, std
+74930.46993578518 24123.0 145330.13718678374
+pvalue: 0.6007025965913044
+
+
+processing tweet features
+processing favorite_count...
+believable by few:
+mean, median, std
+51145.79746835443 7350.0 107382.56816113838
+
+believable by many:
+mean, median, std
+49771.654991243435 9035.0 161285.20647056922
+pvalue: 0.853819569643029
+
+
+processing retweet_count...
+believable by few:
+mean, median, std
+5764.493670886076 1200.0 12214.73249586221
+
+believable by many:
+mean, median, std
+8228.103327495623 2137.0 20932.27910776261
+pvalue: 0.05034734575470772
+
+
+processing content features...
+processing sentiment...
+believable by few:
+Neutral     52
+Negative    22
+Positive     5
+Name: sentiment, dtype: int64
+
+believable by many:
+Neutral     854
+Negative    722
+Positive    137
+Name: sentiment, dtype: int64
+pvalue: 0.02030493033164246
+
+
+processing topic...
+believable by few:
+other       38
+politics    22
+health      10
+crime        7
+science      1
+religion     1
+Name: topic, dtype: int64
+
+believable by many:
+politics    932
+other       439
+health      187
+crime        90
+science      47
+religion     18
+Name: topic, dtype: int64
+calculating pvalue for politics
+pvalue: 4.487669329562856e-06
+
+calculating pvalue for other
+pvalue: 3.730634791469902e-05
+
+calculating pvalue for health
+pvalue: 0.5824624492019574
+
+calculating pvalue for crime
+pvalue: 0.1948002599577976
+
+calculating pvalue for science
+pvalue: 0.7209324676695781
+
+calculating pvalue for religion
+pvalue: 0.5772895308155525
+
+
+processing links...
+believable by few:
+has link, doesn't have link
+47 32
+
+believable by many:
+has link, doesn't have link
+1022 691
+pvalue: 1.0
+
+
+processing personal tone...
+believable by few:
+Yes    46
+No     33
+Name: personal_tone, dtype: int64
+
+believable by many:
+Yes    1049
+No      664
+Name: personal_tone, dtype: int64
+pvalue: 0.6372245230606839
+
+
+processing neutral...
+believable by few:
+mean, median, std
+0.3165244392776579 0.2612996399402618 0.29639444345096083
+
+believable by many:
+mean, median, std
+0.3222782745787577 0.2100419849157333 0.313079618143151
+pvalue: 0.8810280894541848
+
+
+processing fear...
+believable by few:
+mean, median, std
+0.14578977625159825 0.0151578364893794 0.27024669859993594
+
+believable by many:
+mean, median, std
+0.20332620329739662 0.0383918471634388 0.3019902700199551
+pvalue: 0.009959388362845975
+
+
+processing anger...
+believable by few:
+mean, median, std
+0.13171789948121182 0.0290891043841838 0.22473479605622118
+
+believable by many:
+mean, median, std
+0.16038065821471514 0.0495751313865184 0.2374632814585112
+pvalue: 0.07814996016610598
+
+
+processing surprise...
+believable by few:
+mean, median, std
+0.16166997148619983 0.0522820279002189 0.24491209127570426
+
+believable by many:
+mean, median, std
+0.11382396601928695 0.0355196483433246 0.18385482979639065
+pvalue: 0.0681500515230872
+
+
+processing sadness...
+believable by few:
+mean, median, std
+0.09600291949478743 0.0173557791858911 0.2104080244346255
+
+believable by many:
+mean, median, std
+0.08415097157662253 0.017663087695837 0.1787287927402965
+pvalue: 0.8726127749507713
+
+
+processing joy...
+believable by few:
+mean, median, std
+0.0935259157065243 0.0080160433426499 0.227164329857985
+
+believable by many:
+mean, median, std
+0.05162657970494172 0.0064031844958662 0.14159182969351872
+pvalue: 0.167136215661163
+
+
+processing disgust...
+believable by few:
+mean, median, std
+0.054769067339086284 0.0059821372851729 0.13859279611365224
+
+believable by many:
+mean, median, std
+0.06441334763728568 0.0078489910811185 0.1502735437526961
+pvalue: 0.7110131311041417
+
+
+processing toxicity...
+believable by few:
+mean, median, std
+0.11217117582372671 0.001400749082677 0.27595632932211006
+
+believable by many:
+mean, median, std
+0.06672137663258963 0.0010043507209047 0.19664317454916558
+pvalue: 0.19625761596787017
+
+
+processing severe_toxicity...
+believable by few:
+mean, median, std
+0.004179075623958075 2.153559080397826e-06 0.033948987131990016
+
+believable by many:
+mean, median, std
+0.00042589132777778594 1.6913903664317331e-06 0.00430929008296125
+pvalue: 0.019035126265798008
+
+
+processing obscene...
+believable by few:
+mean, median, std
+0.04494880324789016 5.720324770663865e-05 0.18827261103480517
+
+believable by many:
+mean, median, std
+0.021802346330383995 4.88202422275208e-05 0.1301450972697537
+pvalue: 0.0352237316256024
+
+
+processing identity_attack...
+believable by few:
+mean, median, std
+0.003506979182124169 0.0001886380196083 0.010513852682654283
+
+believable by many:
+mean, median, std
+0.011251894147421655 0.0001212727293022 0.061189434618802815
+pvalue: 0.23871559871484072
+
+
+processing insult...
+believable by few:
+mean, median, std
+0.055545629321282854 0.0002956260577775 0.18894986690636953
+
+believable by many:
+mean, median, std
+0.02904559322392437 0.0002306254318682 0.12216048786363079
+pvalue: 0.40418438344818275
+
+
+processing threat...
+believable by few:
+mean, median, std
+0.0012060846261019794 3.486253626761027e-05 0.005933479371403244
+
+believable by many:
+mean, median, std
+0.0022265213972816615 3.0724571843165904e-05 0.01980484391864702
+pvalue: 0.30579303347378917
+
+
+processing sexual_explicit...
+believable by few:
+mean, median, std
+0.026462945696706954 3.042263233510312e-05 0.1294241585808266
+
+believable by many:
+mean, median, std
+0.0060091145066443665 2.0875675545539707e-05 0.049553931548080264
+pvalue: 0.027865179414053094
+
+
+processing liwc features
+processing WC...
+believable by few:
+mean, median, std
+22.78481012658228 20.0 13.682921121317767
+
+believable by many:
+mean, median, std
+29.288382953882078 29.0 14.415268442331403
+pvalue: 8.515142139522107e-05
+
+
+processing Analytic...
+
+
+processing Clout...
+
+
+processing Authentic...
+
+
+processing Tone...
+
+
+processing WPS...
+believable by few:
+mean, median, std
+11.067088607594936 9.5 5.895078162614138
+
+believable by many:
+mean, median, std
+13.372860478692353 11.67 7.650137008716548
+pvalue: 0.0025528078869853717
+
+
+processing BigWords...
+
+
+processing Dic...
+
+
+processing Linguistic...
+
+
+processing function...
+
+
+processing pronoun...
+
+
+processing ppron...
+
+
+processing i...
+
+
+processing we...
+
+
+processing you...
+
+
+processing shehe...
+
+
+processing they...
+believable by few:
+mean, median, std
+0.2358227848101266 0.0 0.7943899571933052
+
+believable by many:
+mean, median, std
+0.7226970227670754 0.0 1.8050033557705
+pvalue: 0.023924871671262324
+
+
+processing ipron...
+
+
+processing det...
+
+
+processing article...
+
+
+processing number...
+believable by few:
+mean, median, std
+7.040000000000001 5.26 7.882086473738231
+
+believable by many:
+mean, median, std
+5.195738470519556 4.17 5.190320862965443
+pvalue: 0.0852507025805005
+
+
+processing prep...
+
+
+processing auxverb...
+
+
+processing adverb...
+believable by few:
+mean, median, std
+2.9179746835443034 0.0 4.408810055095928
+
+believable by many:
+mean, median, std
+3.2420198482194977 2.27 3.842764016562687
+pvalue: 0.08652819513685012
+
+
+processing conj...
+
+
+processing negate...
+
+
+processing verb...
+
+
+processing adj...
+
+
+processing quantity...
+
+
+processing Drives...
+believable by few:
+mean, median, std
+4.577088607594936 3.45 5.691372497236889
+
+believable by many:
+mean, median, std
+5.518680677174547 4.44 5.851017136310455
+pvalue: 0.0618038079282108
+
+
+processing affiliation...
+
+
+processing achieve...
+
+
+processing power...
+believable by few:
+mean, median, std
+2.0281012658227846 0.0 3.563500179328647
+
+believable by many:
+mean, median, std
+3.165668417980151 0.0 4.36382973599515
+pvalue: 0.007574180769239817
+
+
+processing Cognition...
+
+
+processing allnone...
+
+
+processing cogproc...
+
+
+processing insight...
+
+
+processing cause...
+believable by few:
+mean, median, std
+1.0637974683544302 0.0 2.620670448469377
+
+believable by many:
+mean, median, std
+1.2870344424985407 0.0 2.4641971279462287
+pvalue: 0.029773065882516117
+
+
+processing discrep...
+believable by few:
+mean, median, std
+0.8355696202531646 0.0 2.1791398837411498
+
+believable by many:
+mean, median, std
+1.1376532399299475 0.0 2.271610801691195
+pvalue: 0.05712912252828443
+
+
+processing tentat...
+
+
+processing certitude...
+
+
+processing differ...
+
+
+processing memory...
+
+
+processing Affect...
+
+
+processing tone_pos...
+
+
+processing tone_neg...
+
+
+processing emotion...
+believable by few:
+mean, median, std
+5.504683544303797 4.76 5.207408882579394
+
+believable by many:
+mean, median, std
+4.142159953298307 3.03 4.692500591778252
+pvalue: 0.015509675340099902
+
+
+processing emo_pos...
+
+
+processing emo_neg...
+
+
+processing emo_anx...
+
+
+processing emo_anger...
+
+
+processing emo_sad...
+
+
+processing swear...
+
+
+processing Social...
+
+
+processing socbehav...
+
+
+processing prosocial...
+
+
+processing polite...
+
+
+processing conflict...
+
+
+processing moral...
+
+
+processing comm...
+
+
+processing socrefs...
+
+
+processing family...
+
+
+processing friend...
+believable by few:
+mean, median, std
+0.15544303797468356 0.0 0.6978773631673558
+
+believable by many:
+mean, median, std
+0.04475189725627554 0.0 0.5812523337086775
+pvalue: 0.0006573331210855985
+
+
+processing female...
+
+
+processing male...
+
+
+processing Culture...
+
+
+processing politic...
+believable by few:
+mean, median, std
+1.5373417721518985 0.0 3.8590541915719614
+
+believable by many:
+mean, median, std
+2.535329830706363 0.0 4.556917397477511
+pvalue: 0.004319650816504629
+
+
+processing ethnicity...
+
+
+processing tech...
+
+
+processing Lifestyle...
+
+
+processing leisure...
+believable by few:
+mean, median, std
+0.6146835443037975 0.0 1.7235643118356305
+
+believable by many:
+mean, median, std
+0.38886164623467595 0.0 1.6042052797450856
+pvalue: 0.0703668597790776
+
+
+processing home...
+
+
+processing work...
+
+
+processing money...
+
+
+processing relig...
+believable by few:
+mean, median, std
+0.891392405063291 0.0 2.6581913719078187
+
+believable by many:
+mean, median, std
+0.277723292469352 0.0 1.4119465504184945
+pvalue: 0.004429225894668007
+
+
+processing Physical...
+
+
+processing health...
+
+
+processing illness...
+
+
+processing wellness...
+
+
+processing mental...
+
+
+processing substances...
+
+
+processing sexual...
+
+
+processing food...
+
+
+processing death...
+
+
+processing need...
+believable by few:
+mean, median, std
+0.15860759493670884 0.0 1.2030599172763432
+
+believable by many:
+mean, median, std
+0.39854640980735556 0.0 1.5299742073295561
+pvalue: 0.0396632694640731
+
+
+processing want...
+
+
+processing acquire...
+
+
+processing lack...
+
+
+processing fulfill...
+
+
+processing fatigue...
+believable by few:
+mean, median, std
+0.09 0.0 0.5705665200887218
+
+believable by many:
+mean, median, std
+0.0428604786923526 0.0 0.8754800364318187
+pvalue: 0.05335628171814976
+
+
+processing reward...
+
+
+processing risk...
+
+
+processing curiosity...
+
+
+processing allure...
+believable by few:
+mean, median, std
+3.4245569620253167 0.0 5.221375395348396
+
+believable by many:
+mean, median, std
+4.295528312901342 3.33 4.99901317054181
+pvalue: 0.010872919746947091
+
+
+processing Perception...
+
+
+processing attention...
+
+
+processing motion...
+
+
+processing space...
+
+
+processing visual...
+believable by few:
+mean, median, std
+0.3560759493670886 0.0 1.1165737631328774
+
+believable by many:
+mean, median, std
+0.6840630472854641 0.0 1.7680415998574401
+pvalue: 0.09169470061410474
+
+
+processing auditory...
+
+
+processing feeling...
+
+
+processing time...
+
+
+processing focuspast...
+believable by few:
+mean, median, std
+2.428860759493671 0.0 3.8044929536286007
+
+believable by many:
+mean, median, std
+3.351021599532983 2.08 4.447655380455513
+pvalue: 0.019840836862926804
+
+
+processing focuspresent...
+
+
+processing focusfuture...
+
+
+processing Conversation...
+believable by few:
+mean, median, std
+4.610379746835442 3.7 4.839323019787061
+
+believable by many:
+mean, median, std
+3.818628137769994 2.44 4.88282034351886
+pvalue: 0.08869027286924794
+
+
+processing netspeak...
+
+
+processing assent...
+
+
+processing nonflu...
+
+
+processing filler...
+
+
+processing AllPunc...
+believable by few:
+mean, median, std
+39.464936708860755 35.71 24.25654581881034
+
+believable by many:
+mean, median, std
+33.68386456509048 29.09 22.243054783635607
+pvalue: 0.025756794305692648
+
+
+processing Period...
+
+
+processing Comma...
+believable by few:
+mean, median, std
+1.8992405063291138 0.0 3.3922985068186207
+
+believable by many:
+mean, median, std
+2.4381961471103324 0.0 3.321008243173067
+pvalue: 0.036195213179230315
+
+
+processing QMark...
+
+
+processing Exclam...
+believable by few:
+mean, median, std
+0.9250632911392407 0.0 2.618094273349988
+
+believable by many:
+mean, median, std
+0.687209573847052 0.0 5.103681776547537
+pvalue: 0.06943774345164047
+
+
+processing Apostro...
+
+
+processing OtherP...
+believable by few:
+mean, median, std
+22.178227848101265 18.18 18.613438814779023
+
+believable by many:
+mean, median, std
+17.871266783420896 14.29 17.056467394944058
+pvalue: 0.03288987077158193
+
+
+processing Emoji...
+
+
+all done!
