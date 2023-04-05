@@ -1,1 +1,4 @@
 *.key
+*.sqlite
+*.csv
+*.tsv
