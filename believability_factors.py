@@ -409,6 +409,17 @@ if __name__ == "__main__":
         many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
         print('saved to csv')
     
+    
+    # # get the 80% threshold of user followers and retweets
+    # for feature in ["user_followers_count", "retweet_count"]:
+    #     few_feature = few[feature]
+    #     many_feature = many[feature]
+    #     combined_feature = pd.concat([few_feature, many_feature], ignore_index=True)
+        
+    #     # getting the 80th percentile
+    #     threshold = combined_feature.quantile(0.8)
+    #     print(f"80%% threshold of {feature}: {threshold}")
+    
     # user features
     print("processing user features...")
     process_user_verified(few, many)
