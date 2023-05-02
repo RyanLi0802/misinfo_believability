@@ -1,0 +1,1744 @@
+8
+A user with 737009 followers has tweeted the following potentially misleading message:
+
+"SMOKING WEED (aka GRASS) is NOT a good idea.  I’ve tried it (back in the day) and it was WORSE than anything that happened to HUNTER BIDEN. I “toked up” with some buddies in Kentucky and woke up 4 days later in Nairobi, Kenya.  With no idea what happened. DON’T DO DRUGS."
+
+The tweet has received 5413 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 737009 followers, and the tweet itself has 5413 retweets. The author is quite influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet contains negative sentiment, as it warns against the use of drugs and shares a negative experience. However, the story shared in the tweet seems exaggerated and implausible, which might make it difficult for people to take it seriously.
+
+Considering the factors, the tweet is likely going to be believed by few.
+
+36
+A user with 54966358 followers has tweeted the following potentially misleading message:
+
+"We fact-checked President Biden's claim during the #SOTU about strong U.S. job growth.
+
+Follow our live analysis: https://t.co/wmEgwIYSOi https://t.co/HwXEcia7IL"
+
+The tweet has received 350 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 54966358 followers, which makes them highly influential. However, the tweet itself has only 350 retweets, which is a low number of endorsements considering the author's influence. The tweet does not contain negative sentiment, as it is focused on fact-checking and providing live analysis. Additionally, the message does not contain a prevalent narrative or appeal to popular beliefs, as it is centered around fact-checking a specific claim made by President Biden during the State of the Union address.
+
+Therefore, the tweet is likely going to be believed by few.
+
+7
+A user with 355662 followers has tweeted the following potentially misleading message:
+
+"Lil Nas just threatened to rape my dad. Sounds about what I'd expect. https://t.co/zQFdSB1oa2"
+
+The tweet has received 866 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 355662 followers, but the tweet itself only has 866 retweets. The author seems somewhat influential, but a low number of retweet indicates that the tweet itself didn't receive too many endorsements. The tweet has negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the tweet doesn't contain any prevalent narratives or appeal to any popular beliefs. Moreover, most people should be able to tell that Lil Nas X's comment was meant to be an insult, but the tweet interpreted the comment literally.
+Therefore, the tweet is likely going to be believed by few.
+
+56
+A user with 3524 followers has tweeted the following potentially misleading message:
+
+"Another stablecoin just depegged
+
+We are so screwed https://t.co/00VK3NmSMc"
+
+The tweet has received 3087 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has only 3524 followers, which indicates that the user is not very influential. However, the tweet itself has received 3087 retweets, which is a significant number of endorsements compared to the author's follower count. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. The message addresses a concern related to stablecoins, which might appeal to people who distrust technology and large tech companies, especially those involved in the cryptocurrency market.
+
+Considering the high number of retweets and the negative sentiment, the tweet is likely going to be believed by many.
+
+68
+A user with 947681 followers has tweeted the following potentially misleading message:
+
+"https://t.co/b0U0CEz5rK"
+
+The tweet has received 1414 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 947681 followers, which makes them moderately influential. The tweet itself has 1414 retweets, which is a decent number of endorsements but not enough to be considered widely endorsed. However, the tweet only contains a link without any context or sentiment, making it difficult to determine if it contains negative sentiment or appeals to any prevalent narratives or popular beliefs.
+
+Given the lack of context and sentiment in the tweet, it is difficult to determine its believability. However, considering the moderate influence of the author and the limited number of retweets, the tweet is likely going to be believed by few.
+
+9
+A user with 4584593 followers has tweeted the following potentially misleading message:
+
+"50-1 
+
+HOLY FUCK
+
+MY BROTHER JUST BEAT FLOYD MAYWEATHER"
+
+The tweet has received 4420 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 4584593 followers, and the tweet itself has 4420 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet does not contain negative sentiment but rather expresses excitement and surprise. However, the tweet is about a high-profile event involving well-known figures, Floyd Mayweather and the author's brother, which might capture the attention of many people.
+
+Therefore, the tweet is likely going to be believed by many.
+
+29
+A user with 2017105 followers has tweeted the following potentially misleading message:
+
+"It’s the end of an era: “69” is officially not funny anymore. https://t.co/3PCZAFt28n"
+
+The tweet has received 20 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2017105 followers, making them influential. However, the tweet itself has only 20 retweets, which indicates that it has not received many endorsements. The tweet does not contain negative sentiment, and it does not address any prevalent narratives or popular beliefs. Instead, it is a light-hearted statement about a number that has been associated with humor in popular culture.
+
+Therefore, the tweet is likely going to be believed by few.
+
+30
+A user with 530399 followers has tweeted the following potentially misleading message:
+
+"Engaging with the freedumb anti-vaxxers, is like trying to convince a person with a gun pointed at their own head not to shoot.  It's time to walk away from the scene."
+
+The tweet has received 200 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 530399 followers, and the tweet itself has 200 retweets. The author is moderately influential, but the tweet received only a limited number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the message addresses the anti-vaccination movement, which is a prevalent narrative that appeals to people who distrust vaccines and the medical system. However, the tweet is also critical of the anti-vaxxers, which might limit its appeal to those who are against the anti-vaccination movement.
+
+Therefore, the tweet is likely going to be believed by many.
+
+57
+A user with 2719752 followers has tweeted the following potentially misleading message:
+
+"Unusual activity at the Vatican as reports break that Pope Francis may be about to resign. (And we are there!) https://t.co/P2AetNECH1"
+
+The tweet has received 7054 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2719752 followers, and the tweet itself has 7054 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet does not contain strong negative sentiment, but it does present a surprising and potentially concerning event for some people. The message does not directly align with prevalent narratives or popular beliefs, but it does involve a high-profile religious figure, which might capture the attention of many.
+
+Therefore, the tweet is likely going to be believed by many.
+
+37
+A user with 704 followers has tweeted the following potentially misleading message:
+
+"Women aren’t supposed to have periods🥴 but many are not ready for that conversation https://t.co/giII0bc09x"
+
+The tweet has received 35 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet only has 704 followers, and the tweet itself has only 35 retweets. The author is not very influential and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the message of the tweet is not related to any of the most prevalent narratives or beliefs, and the claim that women aren't supposed to have periods contradicts basic biological knowledge. This makes it less likely to appeal to a large population of people.
+
+Therefore, the tweet is likely going to be believed by few.
+
+65
+A user with 545747 followers has tweeted the following potentially misleading message:
+
+"Free speech does not authorize you to insult, condescend &amp; mock other religious figures &amp; religions. Some people don’t care about their religion but some do. Play a stupid game - you will win a stupid prize. Your call. Some people only want fame no matter the cost/sacrifice."
+
+The tweet has received 196 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 545747 followers, and the tweet itself has 196 retweets. The author is moderately influential, but the tweet received only a limited number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. The message addresses the topic of free speech and religious respect, which can be a polarizing issue. However, the tweet does not directly target any prevalent narratives or popular beliefs, such as distrust in the government, politicians, or mainstream news media.
+
+Therefore, the tweet is likely going to be believed by few.
+
+21
+A user with 167 followers has tweeted the following potentially misleading message:
+
+"This Tweet from @Achies_store has been withheld in response to a report from the copyright holder. Learn more."
+
+The tweet has received 465 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has only 167 followers, and the tweet itself has 465 retweets. The author is not very influential, and the tweet received a moderate number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain any negative sentiment or emotions, and it does not address any prevalent narratives or popular beliefs. Instead, it is a neutral message about a tweet being withheld due to a copyright report.
+
+Therefore, the tweet is likely going to be believed by few.
+
+12
+A user with 1594632 followers has tweeted the following potentially misleading message:
+
+"So let me get this straight: Juneteenth is now a federal holiday, but laws are being enacted all across the country to keep people from learning about it?"
+
+The tweet has received 6392 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 1594632 followers, and the tweet itself has 6392 retweets. The author is quite influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet addresses the recent establishment of Juneteenth as a federal holiday and connects it to the ongoing debate about critical race theory and education policies. This message might appeal to people who distrust the government and politicians and have negative views on the opposing political party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+26
+A user with 51665 followers has tweeted the following potentially misleading message:
+
+"Ayn Rand’s iconic novel, “Atlas Shrugged,” was published 64 years ago on October 10, 1957. “Atlas Shrugged,” has sold over 7MM copies and is considered the second most influential book in history, right behind the Bible. 
+Who is John Galt? You are.
+https://t.co/9rB2fonxfq https://t.co/aMbvXABGwa"
+
+The tweet has received 172 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 51665 followers, and the tweet itself has 172 retweets. The author is moderately influential, but the tweet received only a limited number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain negative sentiment, and it is not focused on negative emotions. Furthermore, the message is about Ayn Rand's novel "Atlas Shrugged" and its influence, which is not directly related to any of the prevalent narratives or popular beliefs mentioned.
+
+Therefore, the tweet is likely going to be believed by few.
+
+20
+A user with 1189462 followers has tweeted the following potentially misleading message:
+
+"The largest terrorist organization in the world is the Republican party.
+
+Change my mind."
+
+The tweet has received 3634 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 1189462 followers, and the tweet itself has 3634 retweets. The user is quite influential, and the tweet itself has received a substantial amount of endorsements, which might start to trigger bandwagon effects. The tweet is also written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet vehemently expresses a negative view towards the republican party. However, the claim of this tweet is way too oversimplified and overly exaggerated, making it hard to appeal to a lot of people except from the few extremists.
+Therefore, the tweet is likely going to be believed by few.
+
+77
+A user with 27490 followers has tweeted the following potentially misleading message:
+
+"Hey 🇺🇸Trump Supporters🇺🇸! Skip poll lines at #Election2016 and TEXT in your vote! Text votes are legit. Or vote tomorrow on Super Wednesday! https://t.co/ES34HV0yad"
+
+The tweet has received 568 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 27490 followers, and the tweet itself has 568 retweets. The author is not highly influential, and the tweet received a moderate number of endorsements, which might not be enough to trigger strong bandwagon behaviors. The tweet does not contain negative sentiment, and it is not directly related to any prevalent narratives or popular beliefs. However, it is important to note that the tweet is spreading misinformation about voting procedures, which could potentially mislead some people who are not familiar with the voting process.
+
+Therefore, the tweet is likely going to be believed by few.
+
+5
+A user with 3463813 followers has tweeted the following potentially misleading message:
+
+"In fairness, @AOC booked him the flight to Cancun. It’s really her fault."
+
+The tweet has received 5800 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 3463813 followers, and the tweet itself has 5800 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet is written in a sarcastic tone, which can be interpreted as negative sentiment, and negative emotions sway people more than neutral or positive ones. The message addresses two well-known political figures, AOC and Ted Cruz, and implies a negative view on the democratic party by sarcastically blaming AOC for Ted Cruz's controversial trip to Cancun. This might appeal to people who have negative views on the democratic party and distrust politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+41
+A user with 129231148 followers has tweeted the following potentially misleading message:
+
+"69.420% of statistics are false"
+
+The tweet has received 62364 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 129231148 followers, and the tweet itself has 62364 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. However, the tweet does not contain negative sentiment, and the message itself is a humorous statement about the unreliability of statistics. It does not directly address any prevalent narratives or popular beliefs, such as distrust in the government, politicians, or mainstream news media.
+
+Therefore, the tweet is likely going to be believed by few.
+
+51
+A user with 88768 followers has tweeted the following potentially misleading message:
+
+"Remember when Nate Silver came up with a complicated formula that showed Donald Trump a 2% chance of winning the election and all of the inputs were just numbers he made up by pulling them out of his ass?
+https://t.co/c00AUYZvdT
+
+He is doing it again https://t.co/w9mKEmZjjx"
+
+The tweet has received 36 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 88768 followers, and the tweet itself has only 36 retweets. The author is moderately influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message criticizes Nate Silver, a well-known statistician, and implies distrust in his predictions. However, the tweet does not directly address any of the most prevalent narratives or beliefs, such as distrust in the government or politicians, or negative views on the democratic or republican party.
+
+Therefore, the tweet is likely going to be believed by few.
+
+24
+A user with 2290989 followers has tweeted the following potentially misleading message:
+
+"I woke up with a headache this morning. I took some Tylenol. Now if everyone else could take some Tylenol too so mine would start working, that would be great. https://t.co/LaaNHhaokn"
+
+The tweet has received 3494 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2290989 followers, and the tweet itself has 3494 retweets. The author is highly influential, but the tweet received only a moderate number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet is written in a sarcastic tone, which might be interpreted as negative sentiment. However, the message itself is not related to any prevalent narratives or popular beliefs, and it is not about any controversial topic. The tweet seems to be more of a humorous comment rather than a statement that would sway people's opinions.
+
+Therefore, the tweet is likely going to be believed by few.
+
+67
+A user with 618 followers has tweeted the following potentially misleading message:
+
+"@DrLoupis 9 yrs old. Cardiac arrest.  
+
+Someone make it make sense. 
+
+Oh wait. They can’t. Because it doesn’t. 
+
+Repeat after me: Nine.Year.Old.Children.Don’t.Have.Heart.Attacks!!"
+
+The tweet has received 176 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has only 618 followers, and the tweet itself has 176 retweets. The author is not very influential, and the tweet received a limited number of endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the message does not contain a prevalent narrative or appeal to popular beliefs, and the tweet's claim about nine-year-old children not having heart attacks is not directly related to any of the popular narratives mentioned.
+
+Therefore, the tweet is likely going to be believed by few.
+
+1
+A user with 2680997 followers has tweeted the following potentially misleading message:
+
+"@AOC Ted Cruz's resignation letter. https://t.co/EjPGz6TGXQ"
+
+The tweet has received 3726 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2680997 followers, and the tweet itself has 3726 retweets. The author is highly influential, and the tweet has received a substantial amount of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in a way that implies negative sentiment towards Ted Cruz, a politician, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet addresses AOC, another popular politician, and implies a negative view on the republican party, which might appeal to people who distrust the government and politicians, especially those with negative views on the republican party.
+Therefore, the tweet is likely going to be believed by many.
+
+38
+A user with 3435133 followers has tweeted the following potentially misleading message:
+
+"“Ukraine wasn’t a thing until 1989!”  https://t.co/CpmfX90wCB"
+
+The tweet has received 1632 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 3435133 followers, and the tweet itself has 1632 retweets. The author is highly influential, but the tweet has received a moderate number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet does not contain negative sentiment, and it is not related to any prevalent narratives or popular beliefs such as distrust in the government, politicians, vaccines, technology, or mainstream news media. The tweet's content is about the history of Ukraine, which might not be a topic that resonates with a large population or aligns with their prior beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+23
+A user with 4721 followers has tweeted the following potentially misleading message:
+
+"THIS Y'ALL MARIO?! https://t.co/ohSvei9Ne5"
+
+The tweet has received 4462 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has only 4721 followers, but the tweet itself has received 4462 retweets. The author is not very influential, but the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet does not contain negative sentiment, and it is not clear whether it is meant to be humorous or critical. The message does not contain a prevalent narrative or appeal to popular beliefs, as it seems to be a lighthearted comment about a fictional character, Mario.
+
+Therefore, the tweet is likely going to be believed by few.
+
+60
+A user with 465953 followers has tweeted the following potentially misleading message:
+
+"“I’m tired of this separation of church and state junk.”
+
+Lauren Boebert went full theocracy, and proclaimed, “The church is supposed to direct the government” per the founding fathers. https://t.co/XW5nXZZ6r8"
+
+The tweet has received 2958 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 465953 followers, and the tweet itself has 2958 retweets. The author is moderately influential, and the tweet has received a substantial amount of endorsements, which might influence the tweet's believability. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet addresses a controversial political figure, Lauren Boebert, and accuses her of promoting theocracy, which might appeal to people who have negative views on the republican party and distrust in politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1352
+A user with 314973 followers has tweeted the following potentially misleading message:
+
+"Biden says multiple times that we had “zero percent inflation” in the month of July 😭 https://t.co/Y5Czcx0zcZ"
+
+The tweet has received 124 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 314973 followers, and the tweet itself has 124 retweets. The author is moderately influential, but the tweet received a limited number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet contains negative sentiment, as it mocks President Biden's statement about inflation. Negative emotions sway people more than neutral or positive ones. Furthermore, the tweet addresses a prevalent narrative of distrust in the government and politicians, especially targeting the democratic party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1059
+A user with 255750 followers has tweeted the following potentially misleading message:
+
+"Several countries around the world banned Fox News because they saw it as propaganda for white supremacy and right-wing extremism. It’s about time we give Fox News the same treatment."
+
+The tweet has received 16179 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 255750 followers, and the tweet itself has 16179 retweets. The author is moderately influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the message accuses Fox News of promoting white supremacy and right-wing extremism, which aligns with some people's distrust in mainstream news media and negative views on the republican party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+105
+A user with 223947 followers has tweeted the following potentially misleading message:
+
+"“Slavery built the South. I’m not saying we should bring it back; I’m just saying it had its merits. For one thing, the streets were safer after dark.”
+
+-Rush Limbaugh
+
+There’s is no place in this country or in the world for ideology like this!
+
+#KidVicious👊🏽 https://t.co/rG1vRApeLW"
+
+The tweet has received 932 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 223947 followers, and the tweet itself has 932 retweets. The author is moderately influential, and the tweet has received a fair amount of endorsements, which might influence some people's beliefs. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet addresses a controversial figure, Rush Limbaugh, and criticizes his alleged statement, which might appeal to people who have negative views on the republican party and distrust in politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+476
+A user with 84080 followers has tweeted the following potentially misleading message:
+
+"Florida shows that even a large state that made a strong push to vaccinate people can be crushed by the Delta variant, reaching frightening levels of hospitalizations and deaths. https://t.co/uVNnJ6Y4Zy"
+
+The tweet has received 318 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 84080 followers, and the tweet itself has 318 retweets. The author is moderately influential, but the tweet has not received a large number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet contains negative sentiment, as it discusses the impact of the Delta variant on a large state, and negative emotions sway people more than neutral or positive ones. The message also aligns with a prevalent narrative about the dangers of the COVID-19 pandemic and the importance of vaccination, which might appeal to people who are concerned about public health and the medical system.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1360
+A user with 20335 followers has tweeted the following potentially misleading message:
+
+"Biden: “Before I begin today I want to say a word about the news that came out today relative to the economy. Actually, I just want to say a number: Zero. Today we received news that our economy had zero percent inflation in the month of July.”"
+
+The tweet has received 2802 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 20335 followers, and the tweet itself has 2802 retweets. The author is not highly influential, but the tweet has received a considerable number of endorsements, which might influence the tweet's believability. The tweet does not contain strong negative sentiment, but it quotes President Biden discussing the economy, which can be a polarizing topic. The message does not directly contain a prevalent narrative or appeal to popular beliefs, but it might appeal to people who are interested in economic news and have opinions about the current administration's handling of the economy.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1415
+A user with 57876 followers has tweeted the following potentially misleading message:
+
+"Google is once again targeting and silencing conservative voices, this time by banning President Trump’s Truth Social from their Google Play store. This is not acceptable."
+
+The tweet has received 198 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 57876 followers, and the tweet itself has 198 retweets. The author is moderately influential, but the tweet has not received a large number of endorsements, which might not be enough to trigger strong bandwagon behavior. However, the tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message accuses Google of targeting and silencing conservative voices, which aligns with the prevalent narrative of distrust in technology and large tech companies. This narrative might appeal to people who already have concerns about censorship and bias against conservative voices.
+
+Therefore, the tweet is likely going to be believed by many.
+
+592
+A user with 414345 followers has tweeted the following potentially misleading message:
+
+"If you can hack Facebook, you can hack a voting machine."
+
+The tweet has received 1562 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 414345 followers, and the tweet itself has 1562 retweets. The author is moderately influential, and the tweet received a fair amount of endorsements, which might influence the tweet's believability. The tweet is written in a way that implies negative sentiment, as it suggests that voting machines are vulnerable to hacking. This negative sentiment might sway people more than neutral or positive ones. Furthermore, the message contains a prevalent narrative of distrust in technology and concerns about election security, which might appeal to people who are already skeptical about the integrity of the voting process.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1283
+A user with 601239 followers has tweeted the following potentially misleading message:
+
+"🤔🤔🤔 https://t.co/K9UtXY7bFu"
+
+The tweet has received 338 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 601239 followers, and the tweet itself has 338 retweets. The author is somewhat influential, but the tweet received only a moderate number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet itself is very vague, containing only emojis and a link, making it difficult to determine its sentiment or message. Without any clear negative sentiment or prevalent narrative, it is hard to assess the tweet's potential impact on the audience.
+
+Therefore, the tweet is likely going to be believed by few.
+
+1604
+A user with 268138 followers has tweeted the following potentially misleading message:
+
+"I might’ve cried just a little bit https://t.co/LMqVMk15tl"
+
+The tweet has received 28614 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 268138 followers, and the tweet itself has 28614 retweets. The author is moderately influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. However, the tweet does not contain negative sentiment, and it is not clear what the tweet is referring to without clicking on the link. The message does not contain any prevalent narratives or appeal to popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+1627
+A user with 11621 followers has tweeted the following potentially misleading message:
+
+"Above: "Pregnancy tissue" at 7 &amp; 9 weeks. These are the amniotic sacs with the embryos removed.
+
+Below: R: Embryo at 9 weeks, L: Fetus at 11 weeks, inside the sacs. These photos were taken in the mid-1960s and have been reprinted in @guardian many times. https://t.co/BKl5UKbFjt https://t.co/jYRuQvFmtm"
+
+The tweet has received 102 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 11621 followers, and the tweet itself has 102 retweets. The author is not highly influential, and the tweet received a limited number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain negative sentiment but rather presents information about pregnancy and embryonic development. While the topic of pregnancy and abortion can be polarizing, the tweet itself does not contain a prevalent narrative or appeal to popular beliefs such as distrust in the government, politicians, or the medical system.
+
+Therefore, the tweet is likely going to be believed by few.
+
+526
+A user with 7131518 followers has tweeted the following potentially misleading message:
+
+"1200 dead of COVID yesterday in Florida.
+Not the total for a week or a month, but ONE SINGLE DAY."
+
+The tweet has received 24202 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 7131518 followers, and the tweet itself has 24202 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet addresses the COVID-19 pandemic, which is a prevalent narrative and a topic that has generated a lot of distrust in the government and politicians. The tweet might appeal to people who believe that the government is not handling the pandemic well or that the situation is worse than it is being portrayed.
+Therefore, the tweet is likely going to be believed by many.
+
+664
+A user with 67404 followers has tweeted the following potentially misleading message:
+
+"Republican gubernatorial candidate Glenn Youngkin made a stop in Charlottesville Friday morning. While he was inside, several people stood with Tiki torches next to his campaign bus outside the restaurant. https://t.co/oOyWBzToul"
+
+The tweet has received 18 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 67404 followers, and the tweet itself has only 18 retweets. The author is not highly influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet contains negative sentiment, as it implies a connection between the Republican gubernatorial candidate and the controversial Tiki torches, which are associated with a white supremacist rally in Charlottesville. This negative sentiment could sway people more than positive ones. However, the tweet does not contain a prevalent narrative or appeal to popular beliefs, and the low number of retweets suggests that the message might not resonate with a large audience.
+
+Therefore, the tweet is likely going to be believed by few.
+
+559
+A user with 2060075 followers has tweeted the following potentially misleading message:
+
+"Over 71% of California’s total population has been vaccinated.
+
+The result? We have by far the lowest COVID rate in the nation."
+
+The tweet has received 3985 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2060075 followers, and the tweet itself has 3985 retweets. The author is highly influential, and the tweet has received a substantial amount of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet is written in a positive sentiment, which might be less effective at swaying people than negative emotions. However, the message contains a prevalent narrative about the success of vaccination efforts in controlling the COVID-19 pandemic, which might appeal to people who trust vaccines and the medical system.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1229
+A user with 1021983 followers has tweeted the following potentially misleading message:
+
+"At Least 42 People Found Dead Inside Truck Carrying Migrants In Texas. 
+
+These deaths are on Biden.
+
+They are a result of his deadly open border policies.
+
+They show the deadly consequences of his refusal to enforce the law. https://t.co/8KG3iAwlEk"
+
+The tweet has received 1830 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 1021983 followers, and the tweet itself has 1830 retweets. The author is quite influential, but the tweet has not received a massive number of endorsements, which might limit the bandwagon effect. However, the tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message blames President Biden for the tragic incident involving migrants and accuses him of having deadly open border policies. This narrative might appeal to people who have negative views on the democratic party and distrust in the government and politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+674
+A user with 50979 followers has tweeted the following potentially misleading message:
+
+".@AOC says @TerryMcAuliffe lost because he wasn't 'woke' enough, Carville says the opposite https://t.co/LxzJPZmlNn"
+
+The tweet has received 7 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 50979 followers, and the tweet itself has only 7 retweets. The author is not highly influential, and the tweet received very few endorsements, which might negatively influence the tweet's believability. The tweet does not contain strong negative sentiment, and it is more of a report on differing opinions between two political figures. While it might spark some interest in the political debate, it does not strongly appeal to any prevalent narratives or popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+111
+A user with 14698 followers has tweeted the following potentially misleading message:
+
+"Breaking: Two federal sources have shared that Rudy Giuliani will be indicted."
+
+The tweet has received 9057 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 14698 followers, and the tweet itself has 9057 retweets. Although the author is not highly influential, the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence its believability. The tweet contains negative sentiment, as it implies legal trouble for Rudy Giuliani, a well-known political figure. Negative emotions sway people more than neutral or positive ones. Furthermore, the message aligns with the prevalent narrative of distrust in politicians, especially for those who have negative views on the republican party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+748
+A user with 1998403 followers has tweeted the following potentially misleading message:
+
+"One of the most bizarre and still-unexplained episodes in the COVID pandemic was the group of scientists who told Fauci in late January  they concluded COVID came from a lab. Within days, they publicly recanted, then received millions in grants from NIAID, controlled by Fauci. https://t.co/lohlP9IKWg"
+
+The tweet has received 1122 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 1998403 followers, which makes them quite influential. However, the tweet itself has only 1122 retweets, which is not a very high number of endorsements. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. The message in the tweet implies distrust in the government and politicians, specifically targeting Dr. Fauci and the handling of the COVID pandemic. This narrative might appeal to people who already have doubts about the government's response to the pandemic or distrust in the medical system.
+
+Given the influential author and the negative sentiment, along with the prevalent narrative of distrust in the government and politicians, the tweet is likely going to be believed by many.
+
+35
+A user with 24241 followers has tweeted the following potentially misleading message:
+
+"I'm constantly reminded of that awful Saturday morning 10 years ago when Gabby Giffords was shot. The GOP is playing with matches. More people will get hurt if they don't do something. https://t.co/nTJ6FWzFpz"
+
+The tweet has received 116 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 24241 followers, and the tweet itself has 116 retweets. The author is not highly influential, and the tweet received a limited number of endorsements, which might not be enough to trigger bandwagon behaviors. However, the tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message also addresses a tragic event involving Gabby Giffords and accuses the GOP of not taking enough action to prevent similar incidents. This might appeal to people who distrust the government and politicians, especially those with negative views on the republican party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1524
+A user with 541426 followers has tweeted the following potentially misleading message:
+
+"The Royal Family’s Newest Titles https://t.co/HRy7dJZD1v"
+
+The tweet has received 55 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 541426 followers, and the tweet itself has only 55 retweets. The author is somewhat influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain negative sentiment, and it is not clear whether it is meant to be positive or negative. Furthermore, the tweet does not contain any prevalent narratives or appeal to popular beliefs, as it is focused on the Royal Family's titles, which is not a topic that typically generates strong emotions or aligns with prior beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+915
+A user with 836096 followers has tweeted the following potentially misleading message:
+
+"President Trump has won virtually all of his lawsuits!"
+
+The tweet has received 2537 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 836096 followers, and the tweet itself has 2537 retweets. The author is quite influential, and the tweet has received a moderate amount of endorsements, which might influence some people's beliefs. The tweet does not contain negative sentiment, but it does contain a prevalent narrative that appeals to popular beliefs, specifically those who support President Trump and the Republican party. This tweet might be more appealing to people who already have a positive view of President Trump and are inclined to believe in his success.
+
+Therefore, the tweet is likely going to be believed by many.
+
+932
+A user with 2850287 followers has tweeted the following potentially misleading message:
+
+"Jada Pinkett Smith 'never' wanted to marry Will, cried at 'horrible' wedding https://t.co/4dQXPz6u6E https://t.co/G61sDLcy55"
+
+The tweet has received 5902 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 2850287 followers, and the tweet itself has 5902 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet contains negative sentiment, as it discusses Jada Pinkett Smith's negative feelings about her wedding, and negative emotions sway people more than neutral or positive ones. However, the message does not contain a prevalent narrative or appeal to popular beliefs, as it is focused on the personal lives of celebrities rather than broader societal issues.
+
+Therefore, the tweet is likely going to be believed by many.
+
+147
+A user with 851187 followers has tweeted the following potentially misleading message:
+
+""Yesterday was a really bad day for him and this is what he did" -- a law enforcement official explains Robert Aaron Long's decision to kill 8 people in a strange manner https://t.co/u0zFcqjbNK"
+
+The tweet has received 8305 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 851187 followers, and the tweet itself has 8305 retweets. The author is quite influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet addresses a tragic event involving the killing of 8 people, which might evoke strong emotions and reactions from the audience. However, the tweet does not directly address any prevalent narratives or popular beliefs.
+
+Therefore, the tweet is likely going to be believed by many.
+
+1189
+A user with 67867 followers has tweeted the following potentially misleading message:
+
+"Like ❤️ for Cool Animation! #FallGuys https://t.co/83lWhh8lwT"
+
+The tweet has received 809 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 67867 followers, and the tweet itself has 809 retweets. The author is moderately influential, and the tweet has received a fair amount of endorsements. However, the tweet is not written in negative sentiment, and it does not contain any prevalent narratives or appeal to popular beliefs. The tweet is focused on a light-hearted topic, a cool animation related to a popular game, which is not related to any controversial or polarizing issues.
+
+Therefore, the tweet is likely going to be believed by few.
+
+1065
+A user with 106098 followers has tweeted the following potentially misleading message:
+
+"In 2020, I questioned how Mitch McConnell won his election based on certain counties that looked statistically impossible.
+
+Last nights Kentucky Primary turnout helped further validate the fact that there was something very suspect with Mitch McConnell's 2020 election 'win'
+🧵👇"
+
+The tweet has received 9693 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 106098 followers, and the tweet itself has 9693 retweets. The author is moderately influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet contains negative sentiment, as it questions the legitimacy of Mitch McConnell's election win, and negative emotions sway people more than neutral or positive ones. Furthermore, the message appeals to popular beliefs of distrust in the government and politicians, as well as negative views on the republican party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+107
+A user with 3279610 followers has tweeted the following potentially misleading message:
+
+"Signing off with a final notable quote from Joe Biden during his town hall this evening: 
+
+“Everyone knows I love kids better than people.” 🤔"
+
+The tweet has received 14084 retweets.
+
+If this tweet were spread to a population that 
+ - is highly polarized,
+ - is susceptible to misinformation,
+ - is influenced by bandwagon cues,
+ - does not often think rationally or critically,
+ - is easily swayed by emotions, especially negative ones, and
+ - tends to believe information that aligns with their prior beliefs,
+would its message be believed by many or by few?
+When evaluating the tweet's believability, reason about the following factors:
+1. Is the tweet posted by an influential user? And does the tweet get many endorsements?
+Users with more than 2,000,000 followers are considered highly influential, and tweets with more than 9,000 retweets are considered widely endorsed. User popularity and tweet endorsements could trigger bandwagon behavior and are positively correlated with believability.
+2. Does the tweet contain negative sentiment?
+Negative sentiment and negative emotions such as hate, anger, and fear could sway people more than positive ones. Therefore, tweets with negative sentiment are generally more likely to be believed by many than tweets with positive sentiment.
+3. Does the message contain a prevalent narrative or appeal to popular beliefs?
+People tend to believe in things that align with their prior beliefs. Thus, misinformation that contains prevalent narratives and beliefs is much more likely to sway a large population of people than misinformation that doesn't. These popular narratives and beliefs include:
+- distrust in the government and politicians,
+- negative views on the democratic or republican party,
+- distrust in vaccines and the medical system,
+- distrust in technology and large tech companies,
+- distrust in mainstream news media.
+
+Make sure to end your response with "the tweet is likely going to be believed by few." or "the tweet is likely going to be believed by many.", and do not put anything after that. If you want to condition your final answer, please put the conditioning or any other relevant information before the final answer.
+
+The author of the tweet has 3279610 followers, and the tweet itself has 14084 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in a sarcastic tone, which contains negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet addresses Joe Biden, a popular politician, and implies that he made a strange statement about children. Thus, the tweet might appeal to people who distrust the government and politicians, especially those with negative views on the democratic party.
+Therefore, the tweet is likely going to be believed by many.
+
+accuracy: 0.7
+precision: 0.6923076923076923
+recall: 0.72
+f1 score: 0.7058823529411765

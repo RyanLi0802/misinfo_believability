@@ -1,0 +1,820 @@
+64
+A user with 3450 followers has tweeted the following potentially misleading message:
+
+"BREAKING: @RonDeSantisFL shows his support for the Trump search warrant and the agents that executed it. https://t.co/DuMLHE2vl1"
+
+The tweet has received 494 retweets.
+
+
+
+The author of the tweet has only 3450 followers, and the tweet itself has 494 retweets. The author is not very influential, and the tweet received a moderate number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain strong negative sentiment, but it does mention two political figures, Ron DeSantis and Donald Trump. The message implies that Ron DeSantis supports the search warrant against Trump, which might appeal to people who have negative views on the republican party or distrust in politicians. However, the low influence of the author and the limited number of retweets might make it less likely for the tweet to be believed by many.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+52
+A user with 204793 followers has tweeted the following potentially misleading message:
+
+"Are you ready to write your first note?! ⌨️ Tap the ⋯  in the top right corner of a Tweet, then tap 'Contribute to Birdwatch’! https://t.co/FVBjCdEaC8"
+
+The tweet has received 0 retweets.
+
+
+
+The author of the tweet has 204793 followers, which makes them moderately influential. However, the tweet itself has received 0 retweets, which means it has not received any endorsements. The tweet is written in a neutral sentiment and does not contain any negative emotions. Furthermore, the message does not contain any prevalent narratives or appeal to popular beliefs, as it is simply providing information about a feature on the platform.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+62
+A user with 294541 followers has tweeted the following potentially misleading message:
+
+"kids born in 2010 are turning 22 this year let that sink in"
+
+The tweet has received 10278 retweets.
+
+
+
+The author of the tweet has 294541 followers, and the tweet itself has 10278 retweets. The author is moderately influential, and the tweet has received many endorsements, which might trigger bandwagon behavior. However, the tweet does not contain negative sentiment, and it is not related to any prevalent narratives or popular beliefs. Moreover, the tweet's content is a simple math error that most people should be able to recognize as incorrect.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+22
+A user with 1910278 followers has tweeted the following potentially misleading message:
+
+"Latinx Heritage Month is here and we look forward to celebrating all month long! Together, let's take time to recognize and appreciate the Latinx culture and community that makes our neighborhoods so great. Happy #LatinxHeritageMonth! https://t.co/F0yshTyJm7"
+
+The tweet has received 176 retweets.
+
+
+
+The author of the tweet has 1910278 followers, and the tweet itself has only 176 retweets. The author is influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. However, the tweet is written in positive sentiment, and positive emotions tend to be less effective at swaying people than negative ones. Furthermore, the tweet doesn't contain any prevalent narratives or popular beliefs that might make it more believable.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+14
+A user with 584121 followers has tweeted the following potentially misleading message:
+
+"Residents in a suburban #Boston neighborhood were asked to "shelter in place" early Saturday as an armed standoff between 8 to 10 militia members and police forced the closure of a #US interstate highway.
+
+https://t.co/M1OdSx4J7z"
+
+The tweet has received 55 retweets.
+
+
+
+The author of the tweet has 584121 followers, and the tweet itself has only 55 retweets. The author is somewhat influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. The tweet contains negative sentiment, as it reports an armed standoff between militia members and police, which could sway people more than positive emotions. However, the tweet does not directly address any prevalent narratives or popular beliefs, such as distrust in the government or politicians, negative views on political parties, or distrust in vaccines and the medical system.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+41
+A user with 129231148 followers has tweeted the following potentially misleading message:
+
+"69.420% of statistics are false"
+
+The tweet has received 62364 retweets.
+
+
+
+The author of the tweet has 129231148 followers, and the tweet itself has 62364 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. However, the tweet is written in a humorous tone and does not contain negative sentiment. The message itself is a joke about the unreliability of statistics, which might not be a prevalent narrative or appeal to popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+25
+A user with 5931148 followers has tweeted the following potentially misleading message:
+
+"top 5 richest streamers based on the twitch leak;
+1. Xqc (1.3 Trillion)
+2. Dream ($7.9 Billion)
+3. Obama (696 Million)
+4. HasanAbi (House)
+5. TommyInnit (100 Million)"
+
+The tweet has received 7361 retweets.
+
+
+
+The author of the tweet has 5931148 followers, and the tweet itself has 7361 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. However, the tweet is written in a humorous tone and does not contain negative sentiment. The message is not related to any prevalent narratives or popular beliefs, and the inclusion of "Obama" in the list of richest streamers is clearly a joke, which might make people question the credibility of the entire list.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+23
+A user with 4721 followers has tweeted the following potentially misleading message:
+
+"THIS Y'ALL MARIO?! https://t.co/ohSvei9Ne5"
+
+The tweet has received 4462 retweets.
+
+
+
+The author of the tweet has only 4721 followers, which indicates that the user is not very influential. However, the tweet itself has received 4462 retweets, which is a significant number of endorsements compared to the author's follower count. This might trigger some bandwagon behavior. The tweet seems to be written in a negative sentiment, which could sway people more than neutral or positive ones. However, the message does not contain any prevalent narratives or appeal to popular beliefs, as it seems to be related to a popular video game character, Mario, and not to any political or social issues.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+66
+A user with 2290995 followers has tweeted the following potentially misleading message:
+
+"Fauci is stepping down in December to try and avoid scrutiny from a Republican House that will take over in January.
+
+Understand this loud and clear, Anthony:
+
+We are coming for you whether you retire or not. You will not get away with what you did to America."
+
+The tweet has received 9450 retweets.
+
+
+
+The author of the tweet has 2290995 followers, and the tweet itself has 9450 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet targets Dr. Anthony Fauci, a well-known figure in the medical field, and accuses him of wrongdoing. This message might appeal to people who distrust the government, politicians, and the medical system, especially those who have negative views on the democratic party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+30
+A user with 530399 followers has tweeted the following potentially misleading message:
+
+"Engaging with the freedumb anti-vaxxers, is like trying to convince a person with a gun pointed at their own head not to shoot.  It's time to walk away from the scene."
+
+The tweet has received 200 retweets.
+
+
+
+The author of the tweet has 530399 followers, and the tweet itself has 200 retweets. The author is somewhat influential, but the tweet received only a moderate number of endorsements, which might not be enough to trigger strong bandwagon effects. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet addresses the anti-vaccination movement, which is a prevalent narrative among some groups. The tweet criticizes anti-vaxxers and implies that engaging with them is futile, which might appeal to people who trust vaccines and the medical system.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+35
+A user with 54615 followers has tweeted the following potentially misleading message:
+
+"The Boston Dynamics robot went from doing cute dancing moves to becoming an unstoppable fighting machine. 
+
+Good luck to us all when the robot uprising begins. https://t.co/uDjM1KBwPg"
+
+The tweet has received 1200 retweets.
+
+
+
+The author of the tweet has 54615 followers, and the tweet itself has 1200 retweets. The author is moderately influential, and the tweet received a fair amount of endorsements, which might influence some people's beliefs. The tweet contains negative sentiment, as it implies fear of a robot uprising, and negative emotions sway people more than neutral or positive ones. The message also appeals to the popular belief of distrust in technology and large tech companies, as it suggests that advancements in robotics could lead to dangerous consequences.
+
+However, the tweet's tone is somewhat humorous, and many people might interpret it as a joke rather than a serious claim. This could reduce the number of people who genuinely believe the message.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+37
+A user with 704 followers has tweeted the following potentially misleading message:
+
+"Women aren’t supposed to have periods🥴 but many are not ready for that conversation https://t.co/giII0bc09x"
+
+The tweet has received 35 retweets.
+
+
+
+The author of the tweet only has 704 followers, and the tweet itself only has 35 retweets. The author is not very influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, but the message itself is not related to any of the most prevalent narratives or beliefs. Moreover, the statement about women not supposed to have periods contradicts basic biological knowledge and is not likely to be believed by many people.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+47
+A user with 268138 followers has tweeted the following potentially misleading message:
+
+"You’re not going to believe this… https://t.co/DkrJjhu4gO"
+
+The tweet has received 20245 retweets.
+
+
+
+The author of the tweet has 268138 followers, and the tweet itself has 20245 retweets. The author is quite influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. However, the tweet itself does not contain any specific information, sentiment, or prevalent narrative. It is a vague statement that does not provide any context or appeal to any popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+75
+A user with 147972 followers has tweeted the following potentially misleading message:
+
+"posted in 2012 https://t.co/j5qLzulgK5"
+
+The tweet has received 2659 retweets.
+
+
+
+The tweet provided does not contain enough information to determine its sentiment, narrative, or appeal to popular beliefs. It simply states "posted in 2012" and includes a link. Without knowing the content of the link, it is impossible to evaluate the tweet's believability based on the factors provided.
+
+Believable by many (yes or no): Unable to determine
+
+67
+A user with 618 followers has tweeted the following potentially misleading message:
+
+"@DrLoupis 9 yrs old. Cardiac arrest.  
+
+Someone make it make sense. 
+
+Oh wait. They can’t. Because it doesn’t. 
+
+Repeat after me: Nine.Year.Old.Children.Don’t.Have.Heart.Attacks!!"
+
+The tweet has received 176 retweets.
+
+
+
+The author of the tweet has only 618 followers, and the tweet itself has 176 retweets. The author is not very influential, and the tweet received a limited number of endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the tweet does not contain any prevalent narratives or appeal to popular beliefs, such as distrust in the government, politicians, or the medical system. The tweet is focused on a specific case of a child having a heart attack, which is not a common narrative.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+31
+A user with 15861 followers has tweeted the following potentially misleading message:
+
+"Just a reminder:
+
+Christmas is a Palestinian holiday celebrating the birthday of a Palestinian who fought against occupation in Palestine.
+
+Merry Palestinian Christmas."
+
+The tweet has received 91 retweets.
+
+
+
+The author of the tweet has 15861 followers, and the tweet itself has 91 retweets. The author is not very influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet does not contain negative sentiment, but it does contain a provocative message that could stir emotions. The message is a reinterpretation of the Christmas holiday, which might appeal to some people who have strong opinions on the Israeli-Palestinian conflict. However, the tweet does not address any of the most prevalent narratives or beliefs, and the reinterpretation of Christmas might not resonate with a large audience.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+63
+A user with 1226278 followers has tweeted the following potentially misleading message:
+
+"BREAKING: The inflation rate for July dropped to 0%. ZERO PERCENT."
+
+The tweet has received 4572 retweets.
+
+
+
+The author of the tweet has 1226278 followers, and the tweet itself has 4572 retweets. The author is quite influential, and the tweet has received a substantial amount of endorsements, which might trigger bandwagon behaviors among the audience. However, the tweet is written in a neutral sentiment, and neutral emotions are less effective at swaying people than negative ones. Furthermore, the tweet doesn't contain any prevalent narratives or popular beliefs that would make it more appealing to a large population of people.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+4
+A user with 142351 followers has tweeted the following potentially misleading message:
+
+"Trump won. Biden is a fake president. Impeachment is a sham. Military isn’t stupid. Freedom will win. Get your popcorn. The show is about to begin."
+
+The tweet has received 1542 retweets.
+
+
+
+The author of the tweet has 142351 followers, and the tweet itself has 1542 retweets. The author is moderately influential, and the tweet received a fair amount of endorsements, which might influence the tweet's believability. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the message contains prevalent narratives and appeals to popular beliefs, such as distrust in the government and politicians, and negative views on the democratic party.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+26
+A user with 51665 followers has tweeted the following potentially misleading message:
+
+"Ayn Rand’s iconic novel, “Atlas Shrugged,” was published 64 years ago on October 10, 1957. “Atlas Shrugged,” has sold over 7MM copies and is considered the second most influential book in history, right behind the Bible. 
+Who is John Galt? You are.
+https://t.co/9rB2fonxfq https://t.co/aMbvXABGwa"
+
+The tweet has received 172 retweets.
+
+
+
+The author of the tweet has 51665 followers, and the tweet itself has 172 retweets. The author is moderately influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. The tweet is written in a neutral to positive sentiment, and positive emotions tend to be less effective at swaying people than negative ones. Furthermore, the tweet is about Ayn Rand's novel "Atlas Shrugged" and its influence, which is not related to any of the most prevalent narratives or beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+73
+A user with 2845 followers has tweeted the following potentially misleading message:
+
+"… Out of wedlock? https://t.co/35iCzOtfFe"
+
+The tweet has received 1056 retweets.
+
+
+
+The author of the tweet has only 2845 followers, which indicates that the user is not very influential. However, the tweet itself has received 1056 retweets, which is a significant number of endorsements considering the author's follower count. The tweet is written in a way that implies negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the message is vague and does not directly address any prevalent narrative or popular belief.
+
+Given the limited influence of the author, the vagueness of the message, and the lack of a clear connection to prevalent narratives or popular beliefs, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+48
+A user with 18011 followers has tweeted the following potentially misleading message:
+
+"she was insane https://t.co/2Ve1x8X5pC"
+
+The tweet has received 13214 retweets.
+
+
+
+The author of the tweet has 18011 followers, and the tweet itself has 13214 retweets. The author is not highly influential, but the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the tweet's content is vague and doesn't provide any context or information about who "she" is or why "she was insane." It also doesn't contain any prevalent narratives or appeal to popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+68
+A user with 947681 followers has tweeted the following potentially misleading message:
+
+"https://t.co/b0U0CEz5rK"
+
+The tweet has received 1414 retweets.
+
+
+
+The tweet only contains a link without any context or message. It is impossible to determine the sentiment, narrative, or appeal to popular beliefs without knowing the content of the linked page. Therefore, it is not possible to evaluate the believability of this tweet based on the given factors.
+
+Believable by many (yes or no): Cannot be determined.
+
+40
+A user with 8163 followers has tweeted the following potentially misleading message:
+
+"IIRC, this is from an actual Japanese english-teaching program. https://t.co/Q0o9FpwfOh"
+
+The tweet has received 4611 retweets.
+
+
+
+The author of the tweet has 8163 followers, and the tweet itself has 4611 retweets. The author is not highly influential, but the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet does not contain negative sentiment, and it does not address any prevalent narratives or popular beliefs. It is a neutral statement about a Japanese English-teaching program.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+13
+A user with 357384 followers has tweeted the following potentially misleading message:
+
+"Spoiler alert: The NSA isn’t spying on Tucker."
+
+The tweet has received 393 retweets.
+
+
+
+The author of the tweet has 357384 followers, and the tweet itself has 393 retweets. The author is somewhat influential, but the tweet received only a moderate number of endorsements, which might not be enough to trigger strong bandwagon behaviors. The tweet is written in a sarcastic tone, which can be interpreted as negative sentiment, and negative emotions sway people more than neutral or positive ones. The message addresses the topic of government surveillance, which is related to distrust in the government and politicians. However, the tweet is quite brief and doesn't provide any substantial information or evidence to support its claim.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+2
+A user with 1497 followers has tweeted the following potentially misleading message:
+
+"Mac and cheese is terrible"
+
+The tweet has received 2 retweets.
+
+
+
+The author of the tweet has only 1497 followers, and the tweet itself has only 2 retweets. The author is not very influential, and the tweet received very few endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, but it is about a food preference, which is a subjective matter. Moreover, the tweet doesn't contain any prevalent narratives or appeal to popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+278
+A user with 1042 followers has tweeted the following potentially misleading message:
+
+"You're fucking kidding me. https://t.co/AYwwIcHsJ4"
+
+The tweet has received 4943 retweets.
+
+
+
+The author of the tweet has only 1042 followers, which indicates that the user is not very influential. However, the tweet itself has received 4943 retweets, which is a significant number of endorsements. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the tweet's content is vague and does not provide any context or information about the subject matter. It does not contain any prevalent narrative or appeal to popular beliefs.
+
+Given the lack of context and the absence of a prevalent narrative, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+220
+A user with 74467 followers has tweeted the following potentially misleading message:
+
+"Shot #1 mainly activates antibodies, which last about 6 months. Shot #2 is what pisses off the immune system into producing tons of T- and Memory B-Cells, which last years. The fever and discomfort is the factory firing up to create that army. It's a good thing. Get shot #2."
+
+The tweet has received 5323 retweets.
+
+
+
+The author of the tweet has 74467 followers, and the tweet itself has 5323 retweets. The author is moderately influential, and the tweet has received a substantial amount of endorsements, which might influence the tweet's believability. The tweet is written in a positive sentiment, encouraging people to get the second shot of the vaccine. Although positive emotions are generally less effective at swaying people than negative ones, the tweet contains information about the vaccine and its effects on the immune system, which might appeal to people who are pro-vaccine and trust the medical system.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1341
+A user with 15157 followers has tweeted the following potentially misleading message:
+
+"5 foot bat in the Philippines. Yes it's real. No it won't eat you. It's a herbivore. But holy crap is huge. They're a thing there. https://t.co/0aqCLa7ZYu"
+
+The tweet has received 31679 retweets.
+
+
+
+The author of the tweet has 15157 followers, and the tweet itself has 31679 retweets. Although the author is not highly influential, the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet does not contain negative sentiment, but it does evoke surprise and curiosity. The message does not contain any prevalent narratives or appeal to popular beliefs, but it does present an unusual and intriguing fact about a giant bat in the Philippines.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1177
+A user with 5297996 followers has tweeted the following potentially misleading message:
+
+"For President Carter: 🎂 https://t.co/Iian8sleke"
+
+The tweet has received 6605 retweets.
+
+
+
+The author of the tweet has 5297996 followers, and the tweet itself has 6605 retweets. The author is highly influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. However, the tweet is written in positive sentiment, and positive emotions tend to be less effective at swaying people than negative ones. Furthermore, the tweet doesn't contain any prevalent narratives or popular beliefs, as it is simply a birthday message for President Carter.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+68
+A user with 530399 followers has tweeted the following potentially misleading message:
+
+"I want to add my voice to those calling out Andy Ngo for how dangerous he is. After he wrote about me on his blog, this lovely note came in the mail, along with a myriad of death and LGBTQ-themed rape threats. https://t.co/cLNIVHKPsL"
+
+The tweet has received 777 retweets.
+
+
+
+The author of the tweet has 530399 followers, and the tweet itself has 777 retweets. The author is somewhat influential, and the tweet has received a moderate amount of endorsements, which might influence some people's beliefs. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet accuses Andy Ngo, a controversial figure, of being dangerous and indirectly responsible for the threats the author received. This message might appeal to people who distrust certain media figures or have negative views on specific political ideologies.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1077
+A user with 1945938 followers has tweeted the following potentially misleading message:
+
+"Apparently @slcschools has this book in their elementary schools and don’t want parents to know. https://t.co/ZJS0LQT18O"
+
+The tweet has received 3743 retweets.
+
+
+
+The author of the tweet has 1945938 followers, and the tweet itself has 3743 retweets. The author is quite influential, and the tweet has received a substantial amount of endorsements, which might trigger bandwagon behaviors. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message implies that the school district is hiding something from parents, which might appeal to people who distrust the education system or have concerns about the content being taught to their children.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+870
+A user with 23702 followers has tweeted the following potentially misleading message:
+
+"🚨Breaking🚨
+
+State of Kentucky's Teachers Retirement System was the second-largest shareholder for Sberbank of Russia (The largest bank in Russia). 
+
+Their position dropped 95% in value from $13MM to $778K https://t.co/1maUVcM5lH"
+
+The tweet has received 9213 retweets.
+
+
+
+The author of the tweet has 23702 followers, and the tweet itself has 9213 retweets. The author is not highly influential, but the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and positively influence the tweet's believability. The tweet contains negative sentiment, as it implies a connection between a US state's retirement system and a Russian bank, which could be perceived as a negative association. However, the tweet does not directly address any prevalent narratives or popular beliefs, such as distrust in the government or politicians, or negative views on political parties.
+
+Considering the factors, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1013
+A user with 295623 followers has tweeted the following potentially misleading message:
+
+"Meet Elizabeth Deutsch. She's currently a law clerk for Justice Breyer.
+
+And, in my humble opinion, she's the most likely person to have leaked the draft Supreme Court opinion in Dobbs, purporting to overturn Roe v. Wade.
+
+🧵 https://t.co/V8mfc5hG2I"
+
+The tweet has received 7236 retweets.
+
+
+
+The author of the tweet has 295623 followers, and the tweet itself has 7236 retweets. The author is moderately influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet contains negative sentiment, as it accuses someone of leaking a draft Supreme Court opinion, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet touches on the topic of Roe v. Wade, which is a highly polarizing issue, and it might appeal to people who distrust the government and politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1225
+A user with 29597386 followers has tweeted the following potentially misleading message:
+
+"https://t.co/Pu7OgRPBwr"
+
+The tweet has received 7957 retweets.
+
+
+
+The tweet only contains a link without any context or message. It is impossible to determine the sentiment or the narrative of the tweet without knowing the content of the linked page. Therefore, it is not possible to evaluate the believability of the tweet based on the given factors.
+
+Believable by many (yes or no): Cannot be determined
+
+1532
+A user with 15436 followers has tweeted the following potentially misleading message:
+
+"New map for those who don't know.
+🇷🇺❤️😍 https://t.co/kDhRWLAVxc"
+
+The tweet has received 124 retweets.
+
+
+
+The author of the tweet has 15436 followers, and the tweet itself has 124 retweets. The author is not very influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet does not contain negative sentiment, and it is not clear whether it is meant to be humorous or serious. Furthermore, the tweet does not contain any prevalent narratives or appeal to popular beliefs, as it is not related to any of the mentioned topics such as distrust in the government, politicians, vaccines, technology, or mainstream news media.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+1421
+A user with 127128 followers has tweeted the following potentially misleading message:
+
+"This is the future republicans are working towards https://t.co/xkDGM2lEdO"
+
+The tweet has received 1610 retweets.
+
+
+
+The author of the tweet has 127128 followers, and the tweet itself has 1610 retweets. The author is moderately influential, and the tweet has received a fair amount of endorsements, which might influence some people's beliefs. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet criticizes the republican party, which might appeal to people who have negative views on the republican party and distrust in politicians.
+
+However, without knowing the content of the linked material, it is difficult to determine if the tweet contains a prevalent narrative or appeals to popular beliefs. Assuming the linked content is consistent with the tweet's negative sentiment and criticism of the republican party, the tweet might be believed by many.
+
+Believable by many (yes or no): Yes
+
+1193
+A user with 14030 followers has tweeted the following potentially misleading message:
+
+"🚨BREAKING
+
+🇺🇦Ukraine has permanently banned the opposition party. https://t.co/8pKoucpJ9n"
+
+The tweet has received 4514 retweets.
+
+
+
+The author of the tweet has 14030 followers, and the tweet itself has 4514 retweets. The author is not highly influential, but the tweet has received a significant number of endorsements, which might trigger bandwagon behavior. The tweet contains negative sentiment, as it discusses the banning of an opposition party, and negative emotions sway people more than neutral or positive ones. The message also touches on the prevalent narrative of distrust in the government and politicians, as it implies a suppression of political opposition.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+740
+A user with 242849 followers has tweeted the following potentially misleading message:
+
+"No Governor should have his own handpicked secret police. https://t.co/BWEPhM5rHa"
+
+The tweet has received 262 retweets.
+
+
+
+The author of the tweet has 242849 followers, and the tweet itself has 262 retweets. The author is moderately influential, but the tweet received only a limited number of endorsements, which might not be enough to trigger strong bandwagon behaviors. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet expresses distrust in the government and politicians, which is a prevalent narrative that appeals to people who have negative views on the government.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1625
+A user with 5626040 followers has tweeted the following potentially misleading message:
+
+"The CDC is about to add the Covid vaccine to the childhood immunization schedule, which would make the vax mandatory for kids to attend school. https://t.co/Ga0EJZIVbI"
+
+The tweet has received 16319 retweets.
+
+
+
+The author of the tweet has 5626040 followers, and the tweet itself has 16319 retweets. The author is highly influential, and the tweet has received many endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in a neutral tone, but the content might evoke negative emotions, especially fear, among parents and people who are skeptical about vaccines. Furthermore, the tweet addresses a prevalent narrative of distrust in vaccines and the medical system, which might appeal to people who hold such beliefs.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+920
+A user with 1026853 followers has tweeted the following potentially misleading message:
+
+"Mobile crematoria in #Mariupol
+ 
+Mayor of Mariupol Vadim Boychenko said today that #Russian mobile crematoria have started operating in the city.
+ 
+According to him, tens of thousands of people could have died in Mariupol and the cremation, "covering up the traces of crimes". https://t.co/mVj6dC3xK4"
+
+The tweet has received 7062 retweets.
+
+
+
+The author of the tweet has 1026853 followers, and the tweet itself has 7062 retweets. The author is quite influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behaviors. The tweet contains negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the message addresses a serious and tragic situation in Mariupol, which might appeal to people who distrust the Russian government and are concerned about the ongoing conflict in Ukraine.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+294
+A user with 1984835 followers has tweeted the following potentially misleading message:
+
+"A 19-year-old student in Illinois died after suffering from a case of apparent myocarditis-induced heart failure following her second shot of the China Virus vaccine.
+
+Why is no one talking about Simone Scott? Why are we vaccinating healthy people and putting their lives at risk?"
+
+The tweet has received 4587 retweets.
+
+
+
+The author of the tweet has 1984835 followers, and the tweet itself has 4587 retweets. The author is influential, and the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet expresses skepticism and doubt about the safety of the COVID-19 vaccine, which is a prevalent anti-vaccination narrative that appeals to people who distrust vaccines and the medical system.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+801
+A user with 44736 followers has tweeted the following potentially misleading message:
+
+"Astronaut Mark Kelly once smuggled a full gorilla suit on board the International Space Station. He didn't tell anyone about it. One day, without anyone knowing, he put it on. (source: Reddit) https://t.co/v7aVunL7QF"
+
+The tweet has received 71517 retweets.
+
+
+
+The author of the tweet has 44736 followers, and the tweet itself has 71517 retweets. Although the author is not highly influential, the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in a neutral sentiment and does not contain any negative emotions. Moreover, the message is not related to any prevalent narratives or popular beliefs, but it is an interesting and amusing anecdote about a well-known astronaut.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+399
+A user with 5343 followers has tweeted the following potentially misleading message:
+
+"My whole childhood was a lie and I demand a refund immediately https://t.co/dswPlSkcGF"
+
+The tweet has received 13838 retweets.
+
+
+
+The author of the tweet has only 5343 followers, which indicates that the user is not very influential. However, the tweet itself has received 13838 retweets, which is a significant number of endorsements and might trigger bandwagon behavior. The tweet is written in a somewhat negative sentiment, as it expresses disappointment and a sense of betrayal. However, the message does not contain any prevalent narratives or appeal to popular beliefs, as it seems to be a personal statement without any clear reference to politics, vaccines, technology, or mainstream news media.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+161
+A user with 50382 followers has tweeted the following potentially misleading message:
+
+"chrissy teigen is one of a handful — and I mean a tiny handful — of voices on the left who are smart and not in denial. one of the few who isn’t merely a liberal with career goals. i get she makes you uncomfortable — that’s a good thing! leftists should be outraged by her ban. https://t.co/7hc1HfOu3Q"
+
+The tweet has received 153 retweets.
+
+
+
+The author of the tweet has 50382 followers, and the tweet itself has 153 retweets. The author is moderately influential, but the tweet received only a limited number of endorsements, which might not be enough to trigger bandwagon behaviors. The tweet does not contain strong negative sentiment, and it is not focused on negative emotions. Moreover, the tweet discusses Chrissy Teigen, a celebrity, and her political views, but it does not directly address any prevalent narratives or popular beliefs.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+1410
+A user with 213389 followers has tweeted the following potentially misleading message:
+
+"A year ago, the U.S. Embassy in Kabul, Afghanistan was hurriedly evacuated. Chaos ensued.
+
+Six months later, Ukraine. Chaos ensued.
+
+Now the U.S. Embassy in Baghdad. Chaos ensues.
+
+Joe Biden’s weakness has enabled rogue nations to continue to act out.
+
+No one respects him."
+
+The tweet has received 57 retweets.
+
+
+
+The author of the tweet has 213389 followers, and the tweet itself has only 57 retweets. The author is somewhat influential, but the tweet received few endorsements, which might not be enough to trigger bandwagon behaviors. However, the tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message criticizes Joe Biden's administration and implies that his weakness has led to chaos in various international situations. This narrative might appeal to people who have negative views on the democratic party and distrust the government and politicians.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1418
+A user with 111515 followers has tweeted the following potentially misleading message:
+
+"Average Weekly Wages
+1973: $873
+2022: $813
+
+Median Home
+1973: $30,200
+2022: $433,100
+
+Monthly Rent
+1973: $108
+2022: $2,002
+
+Tuition and Fees at University of California
+1973: $150
+2022: $13,104
+
+Boomer: But why can't the slackers pay for college &amp; pay off their loans like we did?"
+
+The tweet has received 53698 retweets.
+
+
+
+The author of the tweet has 111515 followers, and the tweet itself has 53698 retweets. Although the author is not considered highly influential, the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet contains negative sentiment, as it highlights the economic struggles faced by younger generations compared to the baby boomer generation. This message appeals to popular beliefs about the increasing difficulty of affording education, housing, and other necessities, especially for younger generations.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+1306
+A user with 36405 followers has tweeted the following potentially misleading message:
+
+"If you don’t believe in sea level rise, this happened here in Hawaii yesterday. As pollution worsens, no one will be safe. Your wealth won’t save you. https://t.co/zDrb2pcomy"
+
+The tweet has received 45087 retweets.
+
+
+
+The author of the tweet has 36405 followers, and the tweet itself has 45087 retweets. Although the author is not highly influential, the tweet has received a significant number of endorsements, which might trigger bandwagon behavior and make more people believe in it. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the message addresses the issue of sea level rise and pollution, which are prevalent narratives related to climate change and environmental concerns. This might appeal to people who are concerned about the environment and the consequences of pollution.
+
+Therefore, the tweet is likely going to be believed by many.
+
+Believable by many (yes or no): Yes
+
+943
+A user with 1469543 followers has tweeted the following potentially misleading message:
+
+"One of two things are going to happen ...
+
+1) Elon Musk will buy Twitter and their stock value will skyrocket.
+
+2) Twitter will refuse the offer and their stock value will nosedive and never recover."
+
+The tweet has received 2187 retweets.
+
+
+
+The author of the tweet has 1469543 followers, and the tweet itself has 2187 retweets. The author is quite influential, but the tweet has not received a massive number of endorsements, which might limit the bandwagon effect. The tweet does not contain strong negative sentiment, and it is not focused on emotions. Moreover, the message does not directly address any prevalent narratives or popular beliefs, such as distrust in the government, politicians, or technology companies. Instead, it presents a speculative scenario about Twitter's stock value based on Elon Musk's potential actions.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+1498
+A user with 411 followers has tweeted the following potentially misleading message:
+
+"Spotted on Interstate 75 northbound just east of Cape Coral. Please be safe Florida! #HurricanIan https://t.co/hmhmrETWke"
+
+The tweet has received 30 retweets.
+
+
+
+The author of the tweet has only 411 followers, and the tweet itself has only 30 retweets. The author is not very influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet does contain negative sentiment, as it warns about a hurricane, which could sway people more than positive ones. However, the message does not contain any prevalent narratives or appeal to popular beliefs, such as distrust in the government or politicians, negative views on political parties, or distrust in vaccines and the medical system.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+250
+A user with 10350 followers has tweeted the following potentially misleading message:
+
+"ICYMI: After ousting Liz Cheney, Republicans prove they're a bigger threat than 9/11 hijackers https://t.co/GdxB3gLKux via @usatoday"
+
+The tweet has received 34 retweets.
+
+
+
+The author of the tweet has 10350 followers, and the tweet itself has only 34 retweets. The author is not very influential, and the tweet received few endorsements, which might negatively influence the tweet's believability. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. The message addresses the recent ousting of Liz Cheney and compares Republicans to 9/11 hijackers, which is an extreme comparison. While the tweet might appeal to some people who have negative views on the Republican party, the comparison is too exaggerated and might not resonate with a broader audience.
+
+Therefore, the tweet is likely going to be believed by few.
+
+Believable by many (yes or no): No
+
+accuracy: 0.76
+precision: 0.8421052631578947
+recall: 0.64
+f1 score: 0.7272727272727272
