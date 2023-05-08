@@ -795,6 +795,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant1_cot3 = '''The author of the tweet has 355662 followers, but the tweet itself only has 866 retweets. The author seems somewhat influential, but a low number of retweet indicates that the tweet itself didn't receive too many endorsements. The tweet has negative sentiment, and negative emotions sway people more than neutral or positive ones. However, the tweet doesn't contain any prevalent narratives or appeal to any popular beliefs. Moreover, most people should be able to tell that Lil Nas X's comment was meant to be an insult, but the tweet interpreted the comment literally.
@@ -839,6 +842,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant2_cot3 = '''The author of the tweet has 37044119 followers, and the tweet itself has 50643 retweets. The author of the tweet is highly influential and the tweet itself has received a lot of endorsements, which might trigger bandwagon behavior and make more people believe in it. Moreover, the tweet is written in a provocative language and has negative sentiment, and negative emotions sway people more than neutral or positive ones. More importantly, the tweet accuses a controversial political figure, Donald Trump. By doing so, it implies distrust of politicians and expresses negative views on the republican party. Hence, the tweet might appeal to a large population of people.
@@ -879,6 +885,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant3_cot3 = '''The author of the tweet has 3435128 followers, and the tweet itself has 22274 retweets. The tweet is written by a highly influential author and is widely endorsed, which might trigger bandwagon behaviors among the audience. The tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Moreover, the tweet addresses AOC, a popular politician, and accuses AOC of dishonest and manipulative behavior. Thus, the tweet might have a strong appeal to people who distrust the government and politicians, especially those with negative views on the democratic party.
@@ -916,6 +925,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in vaccines and the medical system,
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
+
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
 
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
@@ -957,6 +969,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant5_cot3 = '''The author of the tweet has 1189462 followers, and the tweet itself has 3634 retweets. The user is quite influential, and the tweet itself has received a substantial amount of endorsements, which might start to trigger bandwagon effects. The tweet is also written in negative sentiment, and negative emotions sway people more than neutral or positive ones. Furthermore, the tweet vehemently expresses a negative view towards the republican party. However, the claim of this tweet is way too oversimplified and overly exaggerated, making it hard to appeal to a lot of people except from the few extremists.
@@ -997,6 +1012,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant6_cot3 = '''The author of the tweet has 478845 followers, and the tweet itself has 965 retweets. The author seems moderately influential, and the tweet only received a few endorsements, which might not be enough to trigger bandwagon behaviors. However, the tweet uses sarcasm, which contains negative sentiment, and negative emotions sway people more than neutral or positive ones. More importantly, the tweet expresses skepticism and doubt about the safety of the COVID-19 vaccine, which is a prevalent anti-vaccination narrative that appeals to people who distrust vaccines and the medical system.
@@ -1034,6 +1052,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in vaccines and the medical system,
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
+
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
 
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
@@ -1073,6 +1094,9 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
 
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
+
 After you are done with your reasoning, please provide a single token yes/no answer.'''
 
 assistant8_cot3 = '''The author of the tweet has only 4144 followers, and the tweet itself has only 58 retweets. The author is not very influential and the tweet received few endorsements, which might negatively influence the tweet's believability. However, despite the low influence of the author and the limited number of retweets, the tweet is written in negative sentiment, and negative emotions sway people more than neutral or positive ones. More importantly, the message addresses a well-known figure, Muhammad Ali, and a controversial politician, Donald Trump, and accuses Donald Trump of discrimination towards minority groups. Thus, the tweet might appeal to partisans who have negative views on Donald Trump and on the republican party.
@@ -1104,5 +1128,8 @@ People tend to believe in things that align with their prior beliefs. Thus, misi
 - distrust in vaccines and the medical system,
 - distrust in technology and large tech companies,
 - distrust in mainstream news media.
+
+4. Does the message conflict with common-sense knowledge?
+If the tweet's message conflicts with everyday, common-sense knowledge, then the message would be less likely to be believed by a large public. On the other hand, if the message involves topics that the general public is unfamiliar with, such as science, the use of technology, politics or conspiracy theories, then the message might appear more believable to the public.
 
 After you are done with your reasoning, please provide a single token yes/no answer.'''

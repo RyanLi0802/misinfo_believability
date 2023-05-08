@@ -1,9 +1,11 @@
 import pandas as pd
 import numpy as np
 
+train_split = 0.8
+
 def get_test_set():
-    believable_by_few = pd.read_csv('../few_with_notes.csv', sep=',')
-    believable_by_many = pd.read_csv('../many_with_notes.csv', sep=',')
+    believable_by_few = pd.read_csv('../believable_by_few.csv', sep=',')
+    believable_by_many = pd.read_csv('../believable_by_many.csv', sep=',')
     
     liwc_few = pd.read_csv('../believable_by_few_liwc.csv', sep=',')
     liwc_many = pd.read_csv('../believable_by_many_liwc.csv', sep=',')
@@ -15,14 +17,17 @@ def get_test_set():
     believable_by_many = believable_by_many.merge(liwc_many, on="tweetId", how="inner")
     
     # randomly shuffle the dataset
-    believable_by_few = believable_by_few.sample(frac=1)
-    believable_by_many = believable_by_many.sample(frac=1)
+    # believable_by_few = believable_by_few.sample(frac=1)
+    # believable_by_many = believable_by_many.sample(frac=1)
     
-    return believable_by_few.iloc[-25:], believable_by_many.iloc[-25:]
+    few_split = int(believable_by_few.shape[0] * train_split)
+    many_split = int(believable_by_many.shape[0] * train_split)
+    
+    return believable_by_few.iloc[few_split:], believable_by_many.iloc[many_split:]
 
 def get_train_set():
-    believable_by_few = pd.read_csv('../few_with_notes.csv', sep=',')
-    believable_by_many = pd.read_csv('../many_with_notes.csv', sep=',')
+    believable_by_few = pd.read_csv('../believable_by_few.csv', sep=',')
+    believable_by_many = pd.read_csv('../believable_by_many.csv', sep=',')
     
     liwc_few = pd.read_csv('../believable_by_few_liwc.csv', sep=',')
     liwc_many = pd.read_csv('../believable_by_many_liwc.csv', sep=',')
@@ -32,8 +37,11 @@ def get_train_set():
     
     believable_by_few = believable_by_few.merge(liwc_few, on="tweetId", how="inner")
     believable_by_many = believable_by_many.merge(liwc_many, on="tweetId", how="inner")
+    
+    few_split = int(believable_by_few.shape[0] * train_split)
+    many_split = int(believable_by_many.shape[0] * train_split)
         
-    return believable_by_few.iloc[:50], believable_by_many.iloc[:50]
+    return believable_by_few.iloc[:few_split], believable_by_many.iloc[:many_split]
 
 def extract_features(data):
     features = []
@@ -109,3 +117,14 @@ def eval_metrics(labels, targets):
     print(f'f1 score: {f1}')
     
     return accuracy, precision, recall, f1
+
+
+if __name__ == '__main__':
+    # sanity test
+    few_train, many_train = get_train_set()
+    few_test, many_test = get_test_set()
+
+    print(few_train.shape)
+    print(many_train.shape)
+    print(few_test.shape)
+    print(many_test.shape)
