@@ -3,3 +3,8 @@
 *.sqlite3
 *.csv
 *.tsv
+
+.idea/
+__pycache__/
+.DS_Store
+.openai.key.Lin
