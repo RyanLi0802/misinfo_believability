@@ -3,11 +3,13 @@ import numpy as np
 
 
 def get_test_set():
-    believable_by_few = pd.read_csv('../believable_by_few.csv', sep=',')
-    believable_by_many = pd.read_csv('../believable_by_many.csv', sep=',')
+    believable_by_few = pd.read_csv(
+        './datasets/believable_by_few.csv', sep=',')
+    believable_by_many = pd.read_csv(
+        './datasets/believable_by_many.csv', sep=',')
 
-    liwc_few = pd.read_csv('../believable_by_few_liwc.csv', sep=',')
-    liwc_many = pd.read_csv('../believable_by_many_liwc.csv', sep=',')
+    liwc_few = pd.read_csv('./datasets/believable_by_few_liwc.csv', sep=',')
+    liwc_many = pd.read_csv('./datasets/believable_by_many_liwc.csv', sep=',')
     # we are dropping emotion as we are obtaining emotion values from elsewhere
     liwc_few = liwc_few.drop(columns='emotion')
     liwc_many = liwc_many.drop(columns='emotion')
@@ -16,16 +18,28 @@ def get_test_set():
         liwc_few, on="tweetId", how="inner")
     believable_by_many = believable_by_many.merge(
         liwc_many, on="tweetId", how="inner")
+
+    img_few = pd.read_csv(
+        './datasets/believable_by_few_img_features.csv', sep=',')
+    img_many = pd.read_csv(
+        './datasets/believable_by_many_img_features.csv', sep=',')
+
+    believable_by_few = believable_by_few.merge(
+        img_few, on="tweetId", how="inner")
+    believable_by_many = believable_by_many.merge(
+        img_many, on="tweetId", how="inner")
 
     return believable_by_few.iloc[-20:], believable_by_many.iloc[-20:]
 
 
 def get_train_set():
-    believable_by_few = pd.read_csv('../believable_by_few.csv', sep=',')
-    believable_by_many = pd.read_csv('../believable_by_many.csv', sep=',')
+    believable_by_few = pd.read_csv(
+        './datasets/believable_by_few.csv', sep=',')
+    believable_by_many = pd.read_csv(
+        './datasets/believable_by_many.csv', sep=',')
 
-    liwc_few = pd.read_csv('../believable_by_few_liwc.csv', sep=',')
-    liwc_many = pd.read_csv('../believable_by_many_liwc.csv', sep=',')
+    liwc_few = pd.read_csv('./datasets/believable_by_few_liwc.csv', sep=',')
+    liwc_many = pd.read_csv('./datasets/believable_by_many_liwc.csv', sep=',')
     # we are dropping emotion as we are obtaining emotion values from elsewhere
     liwc_few = liwc_few.drop(columns='emotion')
     liwc_many = liwc_many.drop(columns='emotion')
@@ -34,6 +48,16 @@ def get_train_set():
         liwc_few, on="tweetId", how="inner")
     believable_by_many = believable_by_many.merge(
         liwc_many, on="tweetId", how="inner")
+
+    img_few = pd.read_csv(
+        './datasets/believable_by_few_img_features.csv', sep=',')
+    img_many = pd.read_csv(
+        './datasets/believable_by_many_img_features.csv', sep=',')
+
+    believable_by_few = believable_by_few.merge(
+        img_few, on="tweetId", how="inner")
+    believable_by_many = believable_by_many.merge(
+        img_many, on="tweetId", how="inner")
 
     return believable_by_few.iloc[:50], believable_by_many.iloc[:50]
 
@@ -79,6 +103,10 @@ def extract_features(data):
         liwc_columns = ['WC', 'WPS', 'they', 'number', 'adverb', 'Drives', 'power', 'cause', 'discrep', 'friend', 'politic', 'leisure',
                         'relig', 'need', 'fatigue', 'allure', 'visual', 'focuspast', 'Conversation', 'AllPunc', 'Comma', 'Exclam', 'OtherP']
         liwc = row[liwc_columns].to_numpy(dtype=np.float64)
+
+        img_columns = ['celebrity_presence', 'text_presence', 'media_count', 'visual_sentiment_first_negative', 'visual_sentiment_first_neutral', 'visual_sentiment_first_positive',
+                       'visual_sentiment_avg_negative', 'visual_sentiment_avg_neutral', 'visual_sentiment_avg_positive']
+        img = row[img_columns].to_numpy(dtype=np.float64)
 
         row_features = np.concatenate(
             (meta_data, sentiment, emotions, topic, toxicity, liwc))
