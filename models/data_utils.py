@@ -104,8 +104,7 @@ def extract_features(data):
                         'relig', 'need', 'fatigue', 'allure', 'visual', 'focuspast', 'Conversation', 'AllPunc', 'Comma', 'Exclam', 'OtherP']
         liwc = row[liwc_columns].to_numpy(dtype=np.float64)
 
-        img_columns = ['celebrity_presence', 'text_presence', 'media_count', 'visual_sentiment_first_negative', 'visual_sentiment_first_neutral', 'visual_sentiment_first_positive',
-                       'visual_sentiment_avg_negative', 'visual_sentiment_avg_neutral', 'visual_sentiment_avg_positive']
+        img_columns = ['celebrity_presence', 'text_presence', 'media_count']
         img = row[img_columns].to_numpy(dtype=np.float64)
 
         row_features = np.concatenate(

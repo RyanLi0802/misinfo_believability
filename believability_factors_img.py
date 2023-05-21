@@ -77,8 +77,7 @@ def process_cat_feature(few, many, feature):
 
 
 def process_img_features(few, many):
-    numerical_features_list = ['media_count', 'visual_sentiment_first_negative', 'visual_sentiment_first_neutral', 'visual_sentiment_first_positive',
-                               'visual_sentiment_avg_negative', 'visual_sentiment_avg_neutral', 'visual_sentiment_avg_positive']
+    numerical_features_list = ['media_count']
     cat_features_list = ['celebrity_presence', 'text_presence']
 
     for feature in numerical_features_list:
