@@ -142,3 +142,57 @@ def eval_metrics(labels, targets):
     print(f'f1 score: {f1}')
 
     return accuracy, precision, recall, f1
+
+
+def extract_significant_features(data):
+    features = []
+
+    for idx in range(data.shape[0]):
+        row = data.iloc[idx]
+
+        # we first process the metadata
+        meta_sig = ['user_followers_count','user_friends_count', 'user_listed_count', 'retweet_count']
+        meta_data = row[meta_sig].to_numpy(dtype = np.float64)
+
+        # sentiment
+        sentiment = np.zeros(1)
+        if row["sentiment"] == 'Negative':
+            sentiment[0] = -1
+        elif row["sentiment"] == 'Positive':
+            sentiment[0] = 1
+
+        # emotions
+        emotions = row[13:20].to_numpy(dtype=np.float64)
+
+        # topic
+        topic = np.zeros(1)
+        if row["topic"] == 'politics':
+            topic[0] = 1
+        elif row["topic"] == 'health':
+            topic[0] == 2
+        elif row['topic'] == 'science':
+            topic[0] = 3
+        elif row['topic'] == 'crime':
+            topic[0] = 4
+        elif row['topic'] == 'religion':
+            topic[0] = 5
+
+        # toxicity
+        toxicity = row[21:28].to_numpy(dtype=np.float64)
+
+        # liwc
+        liwc_columns = ['WC', 'WPS', 'they', 'number', 'adverb', 'Drives', 'power', 'cause', 'discrep', 'friend', 'politic', 'leisure',
+                        'relig', 'need', 'fatigue', 'allure', 'visual', 'focuspast', 'Conversation', 'AllPunc', 'Comma', 'Exclam', 'OtherP']
+        liwc = row[liwc_columns].to_numpy(dtype=np.float64)
+
+        img_columns = ['celebrity_presence', 'text_presence', 'media_count']
+        img = row[img_columns].to_numpy(dtype=np.float64)
+
+        row_features = np.concatenate(
+            (meta_data, sentiment, emotions, topic, toxicity, liwc))
+        features.append(row_features)
+    
+    features = np.array(features)
+
+    return features
+
