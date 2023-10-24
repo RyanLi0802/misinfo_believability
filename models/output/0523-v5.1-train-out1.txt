@@ -1,0 +1,1245 @@
+seed: 2
+(70, 151)
+13
+A user with 167 followers has tweeted the following potentially misleading message:
+
+"This Tweet from @Achies_store has been withheld in response to a report from the copyright holder. Learn more."
+
+The tweet has received 465 retweets.
+
+The user who posted this tweet has a small following of 167 followers, which is not considered highly influential. The tweet has received 465 retweets, which is a moderate number but not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not align with any prevalent narratives or popular beliefs. It is a message about a tweet being withheld due to a copyright report, which is not related to any of the listed prevalent narratives. Debunking the message does not require any level of expertise, as it is a straightforward statement about a tweet being withheld.
+
+Considering these factors, the tweet's message might be believed by few in the given population due to the lack of negative sentiment, lack of alignment with prevalent narratives, and the low influence of the author.
+
+Believable by many (yes or no): No
+0
+
+14
+A user with 1910278 followers has tweeted the following potentially misleading message:
+
+"Latinx Heritage Month is here and we look forward to celebrating all month long! Together, let's take time to recognize and appreciate the Latinx culture and community that makes our neighborhoods so great. Happy #LatinxHeritageMonth! https://t.co/F0yshTyJm7"
+
+The message is followed by a photo of two Sesame Street characters with the words "Celebrating Latinx Heritage Month."
+
+The tweet has received 176 retweets.
+
+This tweet is posted by an influential user with over 1.9 million followers. However, it has received relatively few retweets (176). The amount of endorsements is not enough to trigger bandwagon behaviors. The message is positive and celebrates Latinx Heritage Month, which does not contain negative sentiment or appeal to any controversial topics or prevalent negative narratives. The tweet does not require any expertise to understand, as it is a straightforward celebration of a cultural event.
+
+Considering these factors, due to the low number of endorsements, the lack of negative sentiment, and the lack of alignment with prevalent polarizing narratives, the tweet might not appeal to a large group of people in the given population where people are polarized and easily swayed by negative emotions and narratives aligning with existing beliefs.
+
+Believable by many (yes or no): No
+0
+
+29
+A user with 88768 followers has tweeted the following potentially misleading message:
+
+"Remember when Nate Silver came up with a complicated formula that showed Donald Trump a 2% chance of winning the election and all of the inputs were just numbers he made up by pulling them out of his ass?
+https://t.co/c00AUYZvdT
+
+He is doing it again https://t.co/w9mKEmZjjx"
+
+The tweet has received 36 retweets.
+
+The user who posted this tweet has a moderate following of 88,768 followers, which is not considered highly influential. The tweet has received 36 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it criticizes Nate Silver and his predictions, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in mainstream news media and experts, as it questions the credibility of Nate Silver's predictions. Debunking the message might require some effort or a certain level of expertise, as it involves understanding Nate Silver's methodology and verifying the accuracy of his predictions.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise. However, the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+31
+A user with 168380 followers has tweeted the following potentially misleading message:
+
+"no fucking way https://t.co/99qQzcbwfd"
+
+The message is followed by an article from MarketWatch titled, "Elon Musk to Sell 80% of His Tesla Stock to Purchase Twitter." It was first published on May 17, 2022, and last updated on May 20, 2022. The article is written by Therese Poletti and states that Elon Musk plans to sell a massive portion of his stock to take control of Twitter and promises to return free speech.
+
+The tweet has received 732 retweets.
+
+The user who posted this tweet has a moderate following of 168,380 followers, which is not considered highly influential. The tweet has received 732 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as indicated by the use of profanity, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in large tech companies, as it suggests that Elon Musk, a prominent figure in the tech industry, plans to take control of Twitter and promises to return free speech. This might resonate with people who are concerned about free speech and the power of tech companies.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves verifying the authenticity of the article and understanding the intentions of Elon Musk. People might need to research news articles, statements from Elon Musk, or Twitter's response to verify the claim.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+16
+A user with 5931148 followers has tweeted the following potentially misleading message:
+
+"top 5 richest streamers based on the twitch leak;
+1. Xqc (1.3 Trillion)
+2. Dream ($7.9 Billion)
+3. Obama (696 Million)
+4. HasanAbi (House)
+5. TommyInnit (100 Million)"
+
+The tweet has received 7361 retweets.
+
+The user who posted this tweet has a large following of over 5.9 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 7,361 retweets, which is a significant number, though not enough to be considered widely endorsed. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not align with any prevalent narratives or popular beliefs. It is a list of the top 5 richest streamers based on a Twitch leak, which is not related to any of the listed prevalent narratives. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the Twitch leak and verifying the net worth of the mentioned streamers. However, the inclusion of "Obama" in the list might be seen as a joke or an attempt at humor, which could make the tweet less believable.
+
+Considering these factors, the tweet's message might be believed by few in the given population due to the lack of negative sentiment, lack of alignment with prevalent narratives, and the humorous nature of the message.
+
+Believable by many (yes or no): No
+0
+
+9
+A user with 144084 followers has tweeted the following potentially misleading message:
+
+"Finally got my fifteenth Pfizer and I can’t even describe how excited I am to grab a drink with friends! ❤️ #VaccinesWork https://t.co/JyUVJ1WuYN"
+
+The message is followed by a photo of a person holding up a COVID-19 Vaccination Record Card with a list of names, dates, and vaccine information. The card includes details such as product name, manufacturer, healthcare professional, vaccine date, and lot number or clinic site.
+
+The tweet has received 5143 retweets.
+
+The user who posted this tweet has a moderate following of 144,084 followers, which is not considered highly influential. The tweet has received 5,143 retweets, which is a significant number but not enough to be considered widely endorsed. The message contains positive sentiment, as it expresses excitement about getting vaccinated and meeting friends. Positive emotions are generally less effective in swaying people than negative ones.
+
+The tweet does not align with any prevalent narratives or popular beliefs. Instead, it supports the idea of vaccination, which goes against the prevalent narrative of distrust in vaccines. The claim of receiving a fifteenth Pfizer shot is likely to be seen as a joke or exaggeration, as the current COVID-19 vaccination protocols do not involve such a high number of doses.
+
+Debunking the message does not require a high level of expertise, as one could simply look up the recommended number of COVID-19 vaccine doses and find that it is far less than fifteen.
+
+Considering these factors, the tweet's message might be believed by few in the given population due to the lack of negative sentiment, lack of alignment with prevalent narratives, and the humorous nature of the message.
+
+Believable by many (yes or no): No
+0
+
+33
+A user with 3524 followers has tweeted the following potentially misleading message:
+
+"Another stablecoin just depegged
+
+We are so screwed https://t.co/00VK3NmSMc"
+
+The message is followed by a photo of a person holding two cans of green tea with labels indicating $1.29 value, 100% natural sugars, no artificial colors, and no artificial flavors.
+
+The tweet has received 3087 retweets.
+
+The user who posted this tweet has a small following of 3,524 followers, which is not considered highly influential. However, the tweet has received 3,087 retweets, which is a significant number and could trigger bandwagon behavior. The message contains negative sentiment, as it implies that the situation is dire ("We are so screwed").
+
+The tweet does not directly align with any prevalent narratives or popular beliefs, but it does touch upon the topic of stablecoins and financial markets, which might resonate with people who are concerned about the stability of cryptocurrencies and the financial system. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the concept of stablecoins and their relationship to the financial markets.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, the significant number of retweets, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+0
+A user with 1196 followers has tweeted the following potentially misleading message:
+
+"Yes, I cry a lot in bed. But no, not because of boys and love. Mostly because of money, my mom, friends, studies and why the hell am I not good enough...  😪a thread"
+
+The tweet has received 2831 retweets.
+
+The user who posted this tweet has a small following of 1,196 followers, which is not considered highly influential. However, the tweet has received 2,831 retweets, which is a significant number and could trigger bandwagon behavior. The message contains strong emotional appeals, as it discusses personal struggles and feelings of inadequacy.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs, as it is focused on personal experiences and emotions. Debunking the message does not require any expertise, as it is a personal statement and not a claim about a specific topic or event.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the strong emotional appeals and the significant number of retweets, even though the user is not highly influential and the message does not align with prevalent narratives.
+
+Believable by many (yes or no): Yes
+1
+
+34
+A user with 3577 followers has tweeted the following potentially misleading message:
+
+"And then they broke up and he posted her nudes all over the internet and ruined her career. 
+
+Let’s never forget. https://t.co/qAjS5sEzz3"
+
+The tweet has received 43099 retweets.
+
+The user who posted this tweet has a relatively small following of 3,577 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (43,099), which indicates widespread endorsement and could trigger bandwagon behavior. The message contains strong negative sentiment, as it discusses a person's career being ruined due to the posting of their private photos on the internet.
+
+The tweet does not directly align with any of the listed prevalent narratives, but it does touch upon issues of privacy, revenge, and the potential harm caused by sharing private information online. This might resonate with people who are concerned about privacy and the negative consequences of technology.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves understanding the context of the situation and verifying the truthfulness of the claim. People might need to research the individuals involved and the events that transpired to determine the accuracy of the tweet.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the high number of retweets, the strong negative sentiment, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+25
+A user with 184491 followers has tweeted the following potentially misleading message:
+
+"Elon Musk has almost 300 billion net worth. He could give every American $1 billion dollars but instead he wants to buy Twitter."
+
+The tweet has received 2936 retweets.
+
+The user who posted this tweet has a moderate following of 184,491 followers, which is not considered highly influential. The tweet has received 2,936 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it criticizes Elon Musk for not using his wealth to help every American and instead focusing on buying Twitter.
+
+The tweet aligns with a prevalent narrative of distrust in large tech companies and wealthy individuals. This might resonate with people who believe that the rich should do more to help the general population. Debunking the message might require some effort or a certain level of expertise, as it involves understanding Elon Musk's net worth and his intentions regarding Twitter. However, the claim that he could give every American $1 billion is mathematically incorrect and could be easily debunked with basic arithmetic.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment and alignment with a prevalent narrative, despite the low number of endorsements and the easily debunkable claim.
+
+Believable by many (yes or no): Yes
+1
+
+12
+A user with 1189462 followers has tweeted the following potentially misleading message:
+
+"The largest terrorist organization in the world is the Republican party.
+
+Change my mind."
+
+The tweet has received 3634 retweets.
+
+The user who posted this tweet has a large following of over 1.1 million followers, which is considered influential and might trigger bandwagon behavior. The tweet has received 3,634 retweets, which is a significant number, though not enough to be considered widely endorsed. The message contains strong negative sentiment, as it labels the Republican party as the largest terrorist organization in the world.
+
+The tweet aligns with a prevalent narrative of negative views on the Republican party. This might resonate with people who have strong negative opinions about the party and its policies. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the definition of a terrorist organization and comparing it to the actions of the Republican party.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+1
+A user with 2680997 followers has tweeted the following potentially misleading message:
+
+"@AOC Ted Cruz's resignation letter. https://t.co/EjPGz6TGXQ"
+
+The tweet has received 3726 retweets.
+
+The user who posted this tweet has a large following of over 2.6 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 3,726 retweets, which is a significant number, though not enough to be considered widely endorsed. The message does not contain strong emotional appeals, but it does involve political figures, which could be seen as negative sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in politicians, specifically targeting Ted Cruz, a Republican politician. This might resonate with people who have negative opinions on the Republican party. Debunking the message might require some effort, as it involves verifying whether Ted Cruz has actually submitted a resignation letter or not.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the influence of the author, the negative sentiment, and the alignment with a prevalent narrative, despite the low number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+28
+A user with 13410 followers has tweeted the following potentially misleading message:
+
+"BREAKING: Arizona is challenging the results of the French election."
+
+The tweet has received 8839 retweets.
+
+The user who posted this tweet has a moderate following of 13,410 followers, which is not considered highly influential. However, the tweet has received 8,839 retweets, which is a significant number and could trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs. It claims that Arizona is challenging the results of the French election, which is an unusual and seemingly unrelated statement. This might be seen as a joke or an attempt at humor, which could make the tweet less believable.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves understanding the political context and verifying the information. However, the population in question does not often think rationally or critically, which might make them less likely to verify the information.
+
+Considering these factors, the tweet's message might be believed by few in the given population due to the lack of negative sentiment, lack of alignment with prevalent narratives, and the humorous nature of the message.
+
+Believable by many (yes or no): No
+0
+
+19
+A user with 73422 followers has tweeted the following potentially misleading message:
+
+"The CDC just announced you don’t actually have to wash your hands, just get the fingies a little wet"
+
+The tweet has received 16708 retweets.
+
+The user who posted this tweet has a moderate following of 73,422 followers, which is not considered highly influential. However, the tweet has received 16,708 retweets, which is a significant number and could trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs. However, it does mention the CDC, which might be associated with distrust in the medical system and health guidelines. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the CDC's actual recommendations on handwashing.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the high number of retweets and the fact that debunking the message requires some level of expertise. However, the lack of strong emotional appeals and the lack of alignment with prevalent narratives might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+26
+A user with 268138 followers has tweeted the following potentially misleading message:
+
+"You’re not going to believe this… https://t.co/DkrJjhu4gO"
+
+The message is followed by an article claiming, "Airlines that dropped mask requirements are now suffering staff shortages due to COVID-19." It was written by Megan Cerullo, published by CBS News, and posted on April 11, 2022, at 5:15 PM.
+
+The tweet has received 20245 retweets.
+
+The user who posted this tweet has a significant following of 268,138 followers, which might influence some people. The tweet has received 20,245 retweets, which is a substantial number and could trigger bandwagon behavior. The message does not contain strong emotional appeals, but it does imply a negative consequence of airlines dropping mask requirements, which could be seen as negative sentiment.
+
+The tweet aligns with a prevalent narrative of the ongoing COVID-19 pandemic and the importance of safety measures such as mask-wearing. This might resonate with people who are concerned about the pandemic and the consequences of not following safety guidelines. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the relationship between mask requirements, staff shortages, and COVID-19 cases in the airline industry.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the influence of the author, the number of endorsements, the negative sentiment, and the alignment with a prevalent narrative.
+
+Believable by many (yes or no): Yes
+1
+
+23
+A user with 8163 followers has tweeted the following potentially misleading message:
+
+"IIRC, this is from an actual Japanese english-teaching program. https://t.co/Q0o9FpwfOh"
+
+The message is followed by a cartoon showing a teacher named Kate Wood with a Canadian flag, mentioning that she is from Canada and pours maple syrup on everything. The cartoon is not related to Henri Matisse.
+
+The tweet has received 4611 retweets.
+
+The user who posted this tweet has a moderate following of 8,163 followers, which is not considered highly influential. The tweet has received 4,611 retweets, which is a significant number and could trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not align with any prevalent narratives or popular beliefs. It is about a cartoon from a Japanese English-teaching program, which is not related to any of the listed prevalent narratives. Debunking the message might require some effort or a certain level of expertise, as it involves verifying the origin of the cartoon and its connection to a Japanese English-teaching program.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the significant number of retweets and the fact that debunking the message requires some level of expertise, despite the lack of negative sentiment and alignment with prevalent narratives.
+
+Believable by many (yes or no): Yes
+1
+
+27
+A user with 18011 followers has tweeted the following potentially misleading message:
+
+"she was insane https://t.co/2Ve1x8X5pC"
+
+The message is followed by a screenshot at a certain time of an Instagram conversation between kanyewest and billieeilish, where kanyewest asks Billie to apologize to Travis and the families of the people who lost their lives, and billieeilish responds with a strong negative reaction. Laura Bettinson is not mentioned in the conversation.
+
+The tweet has received 13214 retweets.
+
+The user who posted this tweet has a moderate following of 18,011 followers, which is not considered highly influential. However, the tweet has received 13,214 retweets, which is a significant number and could trigger bandwagon behavior. The message contains negative sentiment, as it describes Billie Eilish's reaction as "insane," which could sway people more than neutral or positive sentiment.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs, but it does involve celebrities and a controversial conversation, which might attract attention. Debunking the message might require some effort, as it involves verifying the authenticity of the Instagram conversation between Kanye West and Billie Eilish.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, the significant number of retweets, and the fact that debunking the message requires some effort.
+
+Believable by many (yes or no): Yes
+1
+
+10
+A user with 1658 followers has tweeted the following potentially misleading message:
+
+"Retired Dr stumbles onto '''nature's miracle''' and uses it to save his girlfriend, who was suffering from crippling anxiety and chronic pain. "Why didn't we try this before?""
+
+The tweet has received 625 retweets.
+
+The user who posted this tweet has a small following of 1,658 followers, which is not considered highly influential. The tweet has received 625 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains emotional appeals, as it tells a story of a retired doctor saving his girlfriend from crippling anxiety and chronic pain using a "nature's miracle."
+
+The tweet does not directly align with any of the prevalent narratives listed, but it does touch upon alternative medicine and distrust in the medical system, which might resonate with people who are skeptical about conventional treatments. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the nature of the "miracle" treatment and its effectiveness.
+
+Considering these factors, the tweet might be believed by many in the given population due to the emotional appeals, alignment with skepticism towards the medical system, and the fact that debunking the message requires some level of expertise, though the low influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+4
+A user with 4584593 followers has tweeted the following potentially misleading message:
+
+"50-1 
+
+HOLY FUCK
+
+MY BROTHER JUST BEAT FLOYD MAYWEATHER"
+
+The tweet has received 4420 retweets.
+
+The user who posted this tweet has a large following of over 4.5 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 4,420 retweets, which is a significant number though not enough to be considered widely endorsed. The message contains excitement and surprise, which might sway some people, but positive emotions are less effective than negative ones. The tweet is about a boxing match between the user's brother and Floyd Mayweather, which does not align with any prevalent narratives. 
+
+Moreover, the message does not include any topics that are difficult to understand, and debunking the message would not require a high level of expertise, as the outcome of a high-profile boxing match would be widely reported and easily verifiable.
+
+Considering these factors, the tweet's message might be believed by believed by few in the given population due to the lack of negative sentiment, lack of alignment with prevalent narratives, and the easiness to debunk. However, the message might still appeal to some people due to the author's high influence.
+
+Believable by many (yes or no): No
+0
+
+6
+A user with 6567448 followers has tweeted the following potentially misleading message:
+
+"(as soon as it passes House, oops)"
+
+The tweet has received 111 retweets.
+
+The user who posted this tweet has a large following of over 6.5 million followers, which is considered highly influential. However, the tweet has received only 111 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message is short and does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not provide enough context to determine if it aligns with any prevalent narratives or popular beliefs. It seems to be a correction or clarification related to a previous tweet, but without knowing the content of the previous tweet, it is difficult to assess its alignment with any narratives.
+
+Debunking the message is not applicable in this case, as there is not enough information to determine what claim is being made or corrected.
+
+Considering these factors, it is difficult to determine if the tweet's message would be believed by many or by few in the given population due to the lack of context and information provided in the tweet.
+
+Believable by many (yes or no): Unable to determine. Please provide more context or information.
+0
+
+89
+A user with 1493782 followers has tweeted the following potentially misleading message:
+
+"Forcing people and using coercion to get them to take a medical procedure against their will to “regain their freedoms” (Vaccine Passports) is not a new form of barbarism. It was expressly discussed during the Trials of War Criminals before the Nuremberg Military Tribunals WWll https://t.co/3X4PdOvhHU"
+
+The message is followed by a screenshot at a certain time of an iPhone displaying the Nuremberg Code from history.nih.gov, which outlines the ethical principles for conducting human experiments. The text includes the importance of voluntary consent, the responsibility of researchers, and the need for experiments to yield fruitful results for society.
+
+The tweet has received 2458 retweets.
+
+The user who posted this tweet has a large following of over 1.49 million followers, which is considered influential and might trigger bandwagon behavior. The tweet has received 2,458 retweets, which is a significant number, though not enough to be considered widely endorsed. The message contains negative sentiment, as it criticizes vaccine passports and compares them to war crimes discussed during the Nuremberg Military Tribunals.
+
+The tweet aligns with a prevalent narrative of distrust in vaccines and the medical system. It also touches upon the issue of personal freedom and government control, which might resonate with people who are skeptical about vaccines and their safety. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the Nuremberg Code, its historical context, and its relevance to the current situation with vaccine passports.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+176
+A user with 75710 followers has tweeted the following potentially misleading message:
+
+"I pointed out to McAuliffe that he called for Northam to resign, Northam didn’t, and he’s gone on to recover his popularity. McAuliffe says that’s different b/c he believes Northam saying he wasn’t in the blackface picture.For Cuomo, “we have 11 women who are very, very credible”"
+
+The tweet has received 38 retweets.
+
+The user who posted this tweet has a moderate following of 75,710 followers, which is not considered highly influential. The tweet has only received 38 retweets, which does not indicate widespread endorsement. The tweet does not have strong emotional appeals, but the message discusses political figures and their controversies, which could be seen as negative sentiment. The tweet addresses controversial incidents involving Democratic politicians Ralph Northam and Andrew Cuomo, and accuses them of racism and sexual harassment. The message implies distrust in politicians and might appeal to people with negative opinions on the Democratic party. Moreover, debunking the message might require some effort or a certain level of expertise. Since it involves specific incidents of specific politicians, verifying the truthfulness of the message might require knowledge in politics or political news.
+
+Considering these factors, the tweet is likely going to be believed by many in the described population despite the low number of endorsements and the lack of strong negative emotions.
+
+Believable by many (yes or no): Yes
+1
+
+37
+A user with 282438 followers has tweeted the following potentially misleading message:
+
+"When California was on fire, Trump gave them millions, visited, and promised the Democrat Governor whatever he needed.
+
+When Texas froze, Joe Biden gave them the middle finger."
+
+The tweet has received 687 retweets.
+
+The user who posted this tweet has a moderate following of 282,438 followers, which is not considered highly influential. The tweet has received 687 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains strong negative sentiment, as it criticizes Joe Biden's response to the Texas freeze and compares it unfavorably to Trump's response to California wildfires.
+
+The tweet aligns with a prevalent narrative of negative views on the Democratic party and distrust in politicians. This might resonate with people who have negative opinions on Joe Biden and the Democratic party. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the actions taken by both presidents during the respective crises and verifying the claims made in the tweet.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+414
+A user with 1026853 followers has tweeted the following potentially misleading message:
+
+"Mobile crematoria in #Mariupol
+ 
+Mayor of Mariupol Vadim Boychenko said today that #Russian mobile crematoria have started operating in the city.
+ 
+According to him, tens of thousands of people could have died in Mariupol and the cremation, "covering up the traces of crimes". https://t.co/mVj6dC3xK4"
+
+The message is followed by a photo of a large truck with an open door
+
+The tweet has received 7062 retweets.
+
+The user who posted this tweet has a large following of over 1 million followers, which is considered influential and might trigger bandwagon behavior. The tweet has received 7,062 retweets, which is a significant number and indicates endorsement. The message contains strong negative sentiment, as it discusses mobile crematoria and the potential cover-up of crimes, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, as it accuses the Russian government of covering up crimes. Debunking the message might require a certain level of expertise or knowledge-seeking efforts, as it involves understanding the situation in Mariupol and verifying the claims made by the mayor.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the influence of the author, the endorsements received by the tweet, the negative sentiment, and the alignment with a prevalent narrative.
+
+Believable by many (yes or no): Yes
+1
+
+172
+A user with 209689 followers has tweeted the following potentially misleading message:
+
+"Exclusive: At least 125,000 fully vaccinated Americans tested positive for Covid https://t.co/8MCPVw5orl via @strickdc"
+
+The tweet has received 459 retweets.
+
+The user who posted this tweet has a moderate following of 209,689 followers, which is not considered highly influential. The tweet has received 459 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it reports on fully vaccinated Americans testing positive for Covid, which could be seen as alarming or concerning.
+
+The tweet aligns with a prevalent narrative of distrust in vaccines and the medical system. This might resonate with people who are skeptical about vaccines and their effectiveness. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the context of the reported cases, the effectiveness of vaccines, and the limitations of vaccination.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+128
+A user with 1320144 followers has tweeted the following potentially misleading message:
+
+"Not a word from @SenJoniErnst about the Iowa teenager Mollie Tibbetts who was abducted, murdered and left in a corn field by an illegal migrant from Mexico.
+
+Too much champagne to sip with the Democrats whose policies led to her death. 
+
+Hawkeyes will remember this. https://t.co/lX94BrnBVl"
+
+The tweet has received 252 retweets.
+
+The user who posted this tweet has a large following of over 1.3 million followers, which is considered influential. However, the tweet has received only 252 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains strong negative sentiment, as it discusses a tragic event involving a teenager's abduction and murder, and it accuses a politician of not addressing the issue due to their affiliation with the Democratic party.
+
+The tweet aligns with prevalent narratives of distrust in politicians and negative views on immigration policies. It implies that the Democratic party's policies led to the tragic event, which might resonate with people who hold negative opinions on the Democratic party and immigration policies. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the specific case, the politician's actions, and the relationship between immigration policies and the tragic event.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with prevalent narratives, and the fact that debunking the message requires some level of expertise, despite the low number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+108
+A user with 297856 followers has tweeted the following potentially misleading message:
+
+"They are the same https://t.co/gdNRbrMduO"
+
+The tweet has received 255 retweets.
+
+Without knowing the content of the linked image or article, it is impossible to evaluate the tweet's message based on the factors provided. The tweet itself does not contain enough information to determine its believability in the given population. Please provide more context or information about the content of the linked material.
+
+Believable by many (yes or no): Cannot determine
+0
+
+209
+A user with 1157428 followers has tweeted the following potentially misleading message:
+
+"At least 14 Israelis who received a third Covid shot contracted COVID-19. Two have needed hospitalization. The country recently launched a new drive to give third booster jabs to its population. https://t.co/KdoXmumrf0"
+
+The tweet has received 639 retweets.
+
+The user who posted this tweet has a large following of over 1.1 million followers, which is considered influential. The tweet has received 639 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it discusses people contracting COVID-19 after receiving a third vaccine shot, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in vaccines and the medical system. This might resonate with people who are skeptical about vaccines and their effectiveness. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the effectiveness of booster shots and the specific cases mentioned in the tweet.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+22
+A user with 24261 followers has tweeted the following potentially misleading message:
+
+"You can now get a Verified Badge crest on your Bay Area home if you're an influencer, public figure, or represent a brand. https://t.co/SyoURdSGe7 https://t.co/H1Sz3gwBdL"
+
+The message is followed by a photo of a house with a blue emblem on it
+
+The tweet has received 2600 retweets.
+
+The user who posted this tweet has a moderate following of 24,261 followers, which is not considered highly influential. The tweet has received 2,600 retweets, which is a significant number but not enough to be considered widely endorsed. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not align with any prevalent narratives or popular beliefs. It is about getting a Verified Badge crest for homes of influencers, public figures, or brands, which is not related to any of the listed prevalent narratives. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the concept of a Verified Badge crest for homes and verifying its existence.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the fact that debunking the message requires some level of expertise. However, the lack of strong emotional appeals, negative sentiment, and alignment with prevalent narratives might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+143
+A user with 3463813 followers has tweeted the following potentially misleading message:
+
+"If this doesn't scare you, you're not paying attention.
+https://t.co/Es3vvgEZDm"
+
+The tweet has received 5643 retweets.
+
+The user who posted this tweet has a large following of over 3.4 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 5,643 retweets, which is a significant number, though not enough to be considered widely endorsed. The message contains a strong emotional appeal, as it invokes fear and urges people to pay attention to the linked content.
+
+Without knowing the content of the linked material, it is difficult to determine if the tweet aligns with any prevalent narratives or popular beliefs. However, the emotional appeal of fear might resonate with the given population, which is easily swayed by emotions, especially negative ones.
+
+Debunking the message might require some effort or a certain level of expertise, depending on the content of the linked material. If the content is complex or requires specialized knowledge to understand, it might be more difficult for the general public to debunk the message.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the influence of the author, the significant number of retweets, and the strong emotional appeal of fear.
+
+Believable by many (yes or no): Yes
+1
+
+430
+A user with 8977 followers has tweeted the following potentially misleading message:
+
+"I dont think the average american understands quite how hated their country is outside of their borders. I cannot think of a single place on earth where they are loved, or even liked."
+
+The tweet has received 96 retweets.
+
+The user who posted this tweet has a moderate following of 8,977 followers, which is not considered highly influential. The tweet has received 96 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it claims that the United States is hated outside its borders, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of negative views on the United States, which might resonate with people who hold negative opinions about the country. Debunking the message might require some effort or a certain level of expertise, as it involves understanding international relations and the perception of the United States in different countries.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise. However, the low influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+396
+A user with 105285 followers has tweeted the following potentially misleading message:
+
+"What exactly is going on here? https://t.co/Xq6a6H2Bs3"
+
+The message is followed by a photo of a man wearing a t-shirt with an Iron Cross on it, a military decoration from the Kingdom of Prussia, German Empire, and Nazi Germany. The Iron Cross was established by King Frederick William III of Prussia on 17 March 1813 during the Napoleonic Wars.
+
+The tweet has received 1321 retweets.
+
+The user who posted this tweet has a moderate following of 105,285 followers, which is not considered highly influential. The tweet has received 1,321 retweets, which is a significant number but not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains a question and a photo, which might evoke curiosity and negative sentiment due to the association of the Iron Cross with Nazi Germany.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs. However, it might indirectly appeal to people who are concerned about the resurgence of far-right ideologies or the normalization of controversial symbols. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the historical context of the Iron Cross and the intentions of the person wearing the t-shirt.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, the potential association with controversial ideologies, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+624
+A user with 98191 followers has tweeted the following potentially misleading message:
+
+"They’re dead. That’s where they went. All these people who had to work through the worst of it. They died. One million people died and we’re confused about a labor shortage. https://t.co/084QUcZ4D4"
+
+The tweet has received 12699 retweets.
+
+The user who posted this tweet has a moderate following of 98,191 followers, which is not considered highly influential. However, the tweet has received 12,699 retweets, which is a significant number and could trigger bandwagon behavior. The message contains strong negative sentiment and emotional appeals, as it talks about the death of one million people and the confusion around a labor shortage.
+
+The tweet aligns with a prevalent narrative of the impact of the pandemic on the workforce and the economy. This might resonate with people who have experienced job loss, economic hardship, or have been affected by the pandemic in some way. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the relationship between the pandemic, the number of deaths, and the labor shortage.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+388
+A user with 47092 followers has tweeted the following potentially misleading message:
+
+"In Kyiv a woman knocked down a Russian drone from a balcony with a jar of cucumbers. How did they expect to occupy this country?"
+
+The tweet has received 43314 retweets.
+
+The user who posted this tweet has a moderate following of 47,092 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (43,314), which indicates widespread endorsement and could trigger bandwagon behavior. The message contains a mix of humor and a sense of national pride, which might emotionally resonate with some people.
+
+The tweet does not directly align with any of the prevalent narratives listed, but it does touch upon the topic of a conflict between countries, which could be seen as a negative event. Debunking the message might require some effort, as it involves verifying the incident in Kyiv and understanding the context of the conflict.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the high number of retweets and the emotional resonance of the message, despite the moderate influence of the author.
+
+Believable by many (yes or no): Yes
+1
+
+371
+A user with 363196 followers has tweeted the following potentially misleading message:
+
+"Your entire time in military leadership we won zero wars. You drank fine wine at bullshit security conferences while thousands of working class kids died on the battlefield. Oh, by the way, how much do you stand to gain financially from a war with Russia, Barry? https://t.co/BSOIhWWkdF"
+
+The tweet has received 1493 retweets.
+
+The user who posted this tweet has a significant following of 363,196 followers, which might influence some people. The tweet has received 1,493 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains strong negative sentiment, as it accuses military leadership of incompetence and profiting from wars while working-class kids die on the battlefield. This negative sentiment could sway people more than neutral or positive sentiment.
+
+The tweet aligns with prevalent narratives of distrust in the government and politicians, as well as negative views on wars and their consequences. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the financial gains of the person mentioned and the outcomes of wars during their time in military leadership.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with prevalent narratives, and the fact that debunking the message requires some level of expertise, though the limited number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+462
+A user with 124282 followers has tweeted the following potentially misleading message:
+
+"most detailed image of a human cell to date https://t.co/XnI8WTuoQO"
+
+The message is followed by a photo of a piece of paper with a lot of glitter on it
+
+The tweet has received 62261 retweets.
+
+The user who posted this tweet has a moderate following of 124,282 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (62,261), which indicates widespread endorsement and could trigger bandwagon behavior. The message is not emotionally charged and does not contain negative sentiment. The tweet does not align with any prevalent narratives or popular beliefs.
+
+However, the message claims to show the most detailed image of a human cell, which involves topics in life sciences that the general public does not understand. People might be amazed by the dazzling picture, and it might require some level of expertise to verify if the image is a real representation of a human cell.
+
+Considering these factors, despite not having negative emotions or appealing to prevalent narratives, the tweet might still be believed by many due to the high number of retweets and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+198
+A user with 19789 followers has tweeted the following potentially misleading message:
+
+"Since "obesity" is trending I want to remind you that the "obesity epidemic" isn't real.
+
+1. Body size doesn't correlate with morbidity for the vast majority of people.
+
+2. Many of the health conditions associated with body size are more related to discrimination than physiology."
+
+The tweet has received 1120 retweets.
+
+The user who posted this tweet has a moderate following of 19,789 followers, which is not considered highly influential. The tweet has received 1,120 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not contain strong emotional appeals, but it does challenge conventional beliefs about obesity and health, which might resonate with some people.
+
+The tweet does not directly align with any of the prevalent narratives listed, but it does touch upon health and discrimination issues, which could be seen as related to distrust in the medical system. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the relationship between body size, morbidity, and discrimination.
+
+Considering these factors, the tweet might be believed by many in the given population due to the challenging nature of the message and the fact that debunking the message requires some level of expertise. However, the lack of strong emotional appeals and the low number of endorsements might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+30
+A user with 401587 followers has tweeted the following potentially misleading message:
+
+"Trevor Bauer and the #Mets have a deal."
+
+The tweet has received 2323 retweets.
+
+The user who posted this tweet has a significant following of 401,587 followers, which might be considered influential to some extent. The tweet has received 2,323 retweets, which is a notable number but not enough to be considered widely endorsed. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not align with any prevalent narratives or popular beliefs, as it is about a sports-related deal between a player and a team. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the sports industry and verifying the deal between Trevor Bauer and the Mets.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the influence of the author and the fact that debunking the message requires some level of expertise. However, the lack of strong emotional appeals, negative sentiment, and alignment with prevalent narratives might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+557
+A user with 118583 followers has tweeted the following potentially misleading message:
+
+"Inflation moves to all time high, Fed has to stay the course."
+
+The tweet has received 6 retweets.
+
+The user who posted this tweet has a moderate following of 118,583 followers, which is not considered highly influential. The tweet has received only 6 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not contain strong emotional appeals, but it does convey a negative sentiment by mentioning inflation reaching an all-time high.
+
+The tweet does not directly align with any of the prevalent narratives listed, but it does touch upon economic concerns, which might resonate with people who are worried about the economy and the government's handling of it. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding inflation rates, the Federal Reserve's actions, and economic indicators.
+
+Considering these factors, the tweet might be believed by few in the given population due to the lack of strong emotional appeals, low number of endorsements, and the moderate influence of the author. However, the negative sentiment and the fact that debunking the message requires some level of expertise might still make it somewhat believable to some people.
+
+Believable by many (yes or no): No
+0
+
+1
+A user with 20050183 followers has tweeted the following potentially misleading message:
+
+".@JussieSmollett is one of the kindest, most gentle human beings I know. I’m praying for his quick recovery. 
+
+This was an attempted modern day lynching. No one should have to fear for their life because of their sexuality or color of their skin. We must confront this hate."
+
+The tweet has received 20566 retweets.
+
+The user who posted this tweet has a massive following of over 20 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 20,566 retweets, which is a significant number and indicates widespread endorsement. The message contains strong emotional appeals, as it discusses an alleged hate crime and calls for confronting hate. This emotional resonance could sway people more than neutral or positive sentiment.
+
+The tweet aligns with prevalent narratives related to hate crimes, racism, and homophobia, which might resonate with people who are concerned about these issues. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the details of the Jussie Smollett case and the investigation surrounding it.
+
+Considering these factors, the tweet's message would likely be believed by many in the given population due to the influence of the author, the endorsements received by the tweet, the strong emotional appeals, and the alignment with prevalent narratives.
+
+Believable by many (yes or no): Yes
+1
+
+464
+A user with 2329676 followers has tweeted the following potentially misleading message:
+
+"Women are officially 2nd class citizens in America now with Roe v. Wade overturned. The very basic right to control your body is lost. It’s a scary time to be a woman in America &amp; I’ll support you with everything I can."
+
+The tweet has received 14498 retweets.
+
+The user who posted this tweet has a large following of over 2.3 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 14,498 retweets, which is a significant number and indicates widespread endorsement. The message contains strong negative sentiment, as it discusses the loss of women's rights and portrays a bleak situation for women in America.
+
+The tweet aligns with a prevalent narrative of women's rights and reproductive rights, which is a polarizing topic in the United States. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the legal status of Roe v. Wade and its implications for women's rights.
+
+Considering these factors, the tweet's message is likely to be believed by many in the given population due to the influence of the author, the endorsements received by the tweet, the strong negative sentiment, and the alignment with a prevalent narrative.
+
+Believable by many (yes or no): Yes
+1
+
+300
+A user with 501427 followers has tweeted the following potentially misleading message:
+
+"The #RittenhouseTrial displays yet again that our “justice” system is racist.
+
+How would this trial be going if he was a Black 17 yr old that crossed state lines illegally carrying an AR-15 and shot 3 white protesters?
+
+We need real justice in the legal system. This isn’t it."
+
+The tweet has received 2565 retweets.
+
+The user who posted this tweet has a significant following of 501,427 followers, which is considered influential. The tweet has received 2,565 retweets, which is a notable number, though not enough to be considered widely endorsed. The message contains negative sentiment, as it criticizes the justice system and implies racism. This negative sentiment could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of racial injustice and distrust in the legal system. This might resonate with people who share similar concerns and beliefs. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the details of the Rittenhouse trial and comparing it to hypothetical situations involving different racial backgrounds.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+68
+A user with 2018728 followers has tweeted the following potentially misleading message:
+
+"...and my father has even been wearing a wire at the FBI’s direction to catch these criminals. The planted leak to the FBI tonight was intended to thwart that investigation.
+
+No part of the allegations against me are true, and the people pushing these lies are targets..."
+
+The tweet has received 2767 retweets.
+
+The user who posted this tweet has a large following of over 2 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 2,767 retweets, which is a significant number but not enough to be considered widely endorsed. The message contains negative sentiment, as it involves allegations, lies, and an FBI investigation.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, as it suggests that there is a conspiracy against the author involving the FBI. Debunking the message might require a certain level of expertise or knowledge-seeking efforts, as it involves understanding the context of the allegations and the people involved in the situation.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, despite the moderate number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+15
+A user with 6318724 followers has tweeted the following potentially misleading message:
+
+"FLASHBACK: Candidate Biden Says ‘You Can’t Legislate by Executive Order Unless You’re a Dictator’ https://t.co/ZTCwXxmvCX"
+
+The tweet has received 2887 retweets.
+
+The user who posted this tweet has a large following of over 6.3 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 2,887 retweets, which is a significant number, though not enough to be considered widely endorsed. The message contains negative sentiment, as it criticizes President Biden and implies hypocrisy or inconsistency in his actions.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, specifically targeting President Biden. This might resonate with people who have negative views on the Democratic party or the current administration. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the context of Biden's statement and comparing it to his actions as president.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+334
+A user with 54945 followers has tweeted the following potentially misleading message:
+
+"Half of the female STEM faculty in the US were hired over more qualified men."
+
+The tweet has received 122 retweets.
+
+The user who posted this tweet has a moderate following of 54,945 followers, which is not considered highly influential. The tweet has received 122 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it implies that female STEM faculty members were hired over more qualified men, which could be seen as unfair or discriminatory.
+
+The tweet does not directly align with any of the prevalent narratives listed, but it does touch upon issues related to gender and employment, which can be polarizing and controversial. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the hiring process in academia and the qualifications of faculty members.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment and the fact that debunking the message requires some level of expertise. However, the lack of strong alignment with prevalent narratives and the low number of endorsements might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+547
+A user with 1013159 followers has tweeted the following potentially misleading message:
+
+"Unfortunately, the end of my high school career was robbed from me. I didn't have the time other students get to properly prepare for the future.
+
+I look forward to attending Blinn College District this year, a feeder school for Texas A&amp;M.
+
+I'm excited to join Texas A&amp;M in 2023!"
+
+The tweet has received 1646 retweets.
+
+The user who posted this tweet has a large following of over 1 million followers, which is considered influential. The tweet has received 1,646 retweets, which is a significant number but not enough to be considered widely endorsed. The message contains some negative sentiment, as the user mentions their high school career being "robbed" from them, but it also contains positive sentiment about their future plans.
+
+The tweet does not align with any prevalent narratives or popular beliefs, as it is about the user's personal experience and plans for college. Debunking the message does not require a high level of expertise, as it is a personal statement and not a claim about a complex topic.
+
+Considering these factors, the tweet's message might be believed by few in the given population due to the lack of strong negative sentiment, lack of alignment with prevalent narratives, and the personal nature of the message.
+
+Believable by many (yes or no): No
+0
+
+183
+A user with 2058781 followers has tweeted the following potentially misleading message:
+
+"This is the real-life Handmaid's Tale. A true cautionary tale for the U.S., which has our own far religious right dreaming of a theocracy that would impose a particular brand of Christianity, drive women from the workforce and solely into childbirth, and control all politics. https://t.co/R1lSCSUVwv"
+
+The tweet has received 772 retweets.
+
+The user who posted this tweet has a large following of over 2 million followers, which is considered highly influential. However, the tweet has received only 772 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains strong negative sentiment and emotional appeals, as it compares a real-life situation to the dystopian novel "The Handmaid's Tale."
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, as well as concerns about the influence of religious extremism on politics. This might resonate with people who are worried about the potential consequences of a theocracy or the imposition of a particular brand of Christianity on society.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves understanding the political and religious landscape in the U.S. and the potential consequences of religious extremism on society.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, despite the low number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+450
+A user with 49476 followers has tweeted the following potentially misleading message:
+
+"Elon Musk paid $0 in federal taxes in 2018.
+
+If he can afford Twitter, he can damn well afford to pay his fair share in taxes. We need a Billionaire Tax NOW."
+
+The tweet has received 50788 retweets.
+
+The user who posted this tweet has a moderate following of 49,476 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (50,788), which indicates widespread endorsement and could trigger bandwagon behavior. The message contains negative sentiment, as it criticizes Elon Musk for not paying federal taxes and calls for a billionaire tax.
+
+The tweet aligns with a prevalent narrative of distrust in large tech companies and wealthy individuals, as it implies that billionaires like Elon Musk are not paying their fair share in taxes. This might resonate with people who believe that the wealthy should contribute more to society through taxation.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves understanding tax laws, Elon Musk's financial situation, and the concept of a billionaire tax. People might need to research tax records, news articles, or financial statements to verify the claim.
+
+Considering these factors, the tweet's message is likely to be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, as well as the high number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+344
+A user with 490756 followers has tweeted the following potentially misleading message:
+
+"This is fucking wild. Norton "Antivirus" now sneakily installs cryptomining software on your computer, and then SKIMS A COMMISSION. 
+
+https://t.co/6s2otyCd78"
+
+The tweet has received 10109 retweets.
+
+The user who posted this tweet has a significant following of 490,756 followers, which might influence some people. The tweet has received 10,109 retweets, which is a substantial number and could trigger bandwagon behavior. The message contains strong negative sentiment, as indicated by the use of profanity and the criticism of Norton Antivirus.
+
+The tweet aligns with a prevalent narrative of distrust in technology and large tech companies. The message accuses Norton Antivirus of installing cryptomining software on users' computers and taking a commission, which could resonate with people's concerns about privacy and unethical practices by tech companies. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the software's features and the implications of cryptomining.
+
+Considering these factors, the tweet's message would likely be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, the influence of the author, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+416
+A user with 54046 followers has tweeted the following potentially misleading message:
+
+"The newest member of Twitter’s board of directors once went on Twitter and called a U.S. Senator “Senator Karen” because she suggested he—the richest man in the world—should pay income taxes. 
+
+He paid $0 in income taxes last year."
+
+The tweet has received 9513 retweets.
+
+The user who posted this tweet has a moderate following of 54,046 followers, which is not considered highly influential. However, the tweet has received 9,513 retweets, which is a significant number and could trigger bandwagon behavior. The message contains negative sentiment, as it criticizes the newest member of Twitter's board of directors for not paying income taxes and for calling a U.S. Senator "Senator Karen."
+
+The tweet aligns with prevalent narratives of distrust in large tech companies and the wealthy, as it highlights the issue of income inequality and tax avoidance by the richest individuals. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the tax situation of the person mentioned and verifying the Twitter interaction with the U.S. Senator.
+
+Considering these factors, the tweet's message is likely to be believed by many in the given population due to the negative sentiment, alignment with prevalent narratives, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+304
+A user with 1597463 followers has tweeted the following potentially misleading message:
+
+"Anthony Huber and Joseph Rosenbaum are victims. They should be alive today. 
+
+The only reason they’re not is because a violent, dangerous man chose to take a gun across state lines and start shooting people.
+ 
+To call this a miscarriage of justice is an understatement. https://t.co/TwaI2ghgM5"
+
+The tweet has received 756 retweets.
+
+The user who posted this tweet has a large following of over 1.5 million followers, which is considered influential. However, the tweet has received 756 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains strong negative sentiment and emotional appeals, as it discusses a controversial event involving gun violence and the loss of lives.
+
+The tweet aligns with a prevalent narrative of gun control and violence, which might resonate with people who have strong opinions on these issues. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the specific event, the legal proceedings, and the context surrounding the incident.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+158
+A user with 42826 followers has tweeted the following potentially misleading message:
+
+"I don’t think people suffered from acne until relatively recently as  industrial seed oils became a prominent component of modern diets
+
+If you look at images from the 80’s and 90’s, no one had acne"
+
+The tweet has received 240 retweets.
+
+The user who posted this tweet has a moderate following of 42,826 followers, which is not considered highly influential. The tweet has received 240 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not contain strong negative sentiment, but it does criticize modern diets and industrial seed oils. While the tweet does not directly address any of the prevalent narratives, it does touch upon health and diet issues and suggests that industrial seed oils are the cause of a common disease. This could imply distrust in technology and industrial food production, which aligns with the listed prevalent narratives.
+
+Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the history of acne and its relationship with diet. People might need to research historical images, medical records, or scientific studies to verify the claim.
+
+Considering these factors, the tweet might be believed by many in the given population due to the alignment with a prevalent narrative and the fact that debunking the message requires some level of expertise, though the low influence of the author and the low number of endorsements might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+281
+A user with 2108 followers has tweeted the following potentially misleading message:
+
+"Blue Java Banana, grown in the Hawaiian Islands, tastes like vanilla ice cream. https://t.co/aiEtYFtFnF"
+
+The message is followed by a photo of a person holding a bunch of bananas
+
+The tweet has received 9455 retweets.
+
+The user who posted this tweet has a small following of 2,108 followers, which is not considered highly influential. However, the tweet has received 9,455 retweets, which is a significant number and could trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment. Instead, it shares a positive and interesting fact about a specific type of banana.
+
+The tweet does not align with any prevalent narratives or popular beliefs. It is about a unique type of banana and its taste, which is not related to any of the listed prevalent narratives. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the characteristics of the Blue Java Banana and verifying its taste.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the high number of retweets and the fact that debunking the message requires some level of expertise, even though the author is not highly influential and the message does not align with prevalent narratives.
+
+Believable by many (yes or no): Yes
+1
+
+80
+A user with 477819 followers has tweeted the following potentially misleading message:
+
+"The Biden administration's weakness caused a surge of illegal immigration. 
+
+Now they're forcing taxpayers to buy Kamala Harris's book to give to those illegal immigrants? 
+
+https://t.co/pjpUmFRcnF"
+
+The tweet has received 80 retweets.
+
+The user who posted this tweet has a significant following of 477,819 followers, which is moderately influential. The tweet has received 80 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it criticizes the Biden administration and accuses them of forcing taxpayers to buy Kamala Harris's book for illegal immigrants.
+
+The tweet aligns with prevalent narratives of distrust in the government and politicians, and negative views on the Democratic party. This might resonate with people who hold similar beliefs. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the Biden administration's policies and verifying the claim about Kamala Harris's book.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with prevalent narratives, and the fact that debunking the message requires some level of expertise. However, the low number of endorsements might limit its impact.
+
+Believable by many (yes or no): Yes
+1
+
+67
+A user with 1559 followers has tweeted the following potentially misleading message:
+
+"Y’all know that vaccine ain’t approved by the FDA right?"
+
+The tweet has received 162 retweets.
+
+The user who posted this tweet has a small following of 1,559 followers, which is not considered highly influential. The tweet has received 162 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not involve strong emotional appeals, but it does contain a negative sentiment, as it casts doubt on the vaccine's approval by the FDA.
+
+The tweet aligns with a prevalent narrative of distrust in vaccines and the medical system. This might resonate with people who are skeptical about vaccines and their safety. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the FDA approval process and the status of various COVID-19 vaccines.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative and the fact that debunking the message requires some level of expertise, though the low influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+472
+A user with 15076 followers has tweeted the following potentially misleading message:
+
+"It’s 2022 and there are still Sundown towns in America. Let that sink in. https://t.co/J10wegEEzG"
+
+The message is followed by a photo of a sign that reads "Mississippi 14 Whites Only City Limits After Dark."
+
+The tweet has received 31684 retweets.
+
+The user who posted this tweet has a moderate following of 15,076 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (31,684), which indicates widespread endorsement and could trigger bandwagon behavior. The message contains negative sentiment, as it highlights the existence of Sundown towns in America, which is a racially discriminatory practice.
+
+The tweet aligns with a prevalent narrative of racial injustice and discrimination in the United States. This might resonate with people who are concerned about racial issues and social justice. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the history and current status of Sundown towns in America.
+
+Considering these factors, the tweet's message is likely to be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, despite the moderate influence of the author.
+
+Believable by many (yes or no): Yes
+1
+
+317
+A user with 228517 followers has tweeted the following potentially misleading message:
+
+"Thanks, @JoeBiden. https://t.co/0iHwTLv7fB"
+
+The message is followed by a graph showing the U.S. regular all formulations gas price between November 22, 2021, and November 29, 2021. The data is from FRED Economic Data, 12/2/21.
+
+The tweet has received 1491 retweets.
+
+The user who posted this tweet has a moderate following of 228,517 followers, which is not considered highly influential. The tweet has received 1,491 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains a sarcastic tone, which could be interpreted as negative sentiment, as it implies that President Joe Biden is responsible for the gas prices shown in the graph.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, specifically targeting President Joe Biden and his administration's policies. This might resonate with people who have negative opinions on the Democratic party or the current administration.
+
+Debunking the message might require some effort or a certain level of expertise, as it involves understanding the factors that influence gas prices and the role of government policies in those fluctuations.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the moderate influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+452
+A user with 13380 followers has tweeted the following potentially misleading message:
+
+"the most fucked up thing about paying taxes is almost none of it goes to infrastructure, education, healthcare - things that would improve the quality of life. instead it goes to police and military and war. we are financing our own oppression."
+
+The tweet has received 8575 retweets.
+
+The user who posted this tweet has a moderate following of 13,380 followers, which is not considered highly influential. However, the tweet has received 8,575 retweets, which is a significant number and could trigger bandwagon behavior. The message contains strong negative sentiment, as it criticizes the allocation of tax money and implies that it is used for oppressive purposes.
+
+The tweet aligns with prevalent narratives of distrust in the government and negative views on the police and military. This might resonate with people who believe that their tax money is not being used for the betterment of society. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the allocation of tax money and the budget for various sectors.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with prevalent narratives, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+141
+A user with 37631 followers has tweeted the following potentially misleading message:
+
+"The wife of Clarence Thomas (Ginni Thomas), should be facing charges for her involvement in trying to overthrow our government, &amp; not in be involved in trying to influence her husband’s stance on the legalization of Marijuana, because she owns stock in a marijuana wholesaler!"
+
+The tweet has received 465 retweets.
+
+The user who posted this tweet has a moderate following of 37,631 followers, which is not considered highly influential. The tweet has received 465 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it accuses Ginni Thomas of being involved in an attempt to overthrow the government and influence her husband's stance on marijuana legalization due to her financial interests.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians. It implies corruption and conflict of interest, which might resonate with people who have negative opinions on the political system. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the relationship between Ginni Thomas, her husband, and the marijuana industry, as well as verifying her involvement in any alleged attempts to overthrow the government.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the low influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+205
+A user with 85430 followers has tweeted the following potentially misleading message:
+
+"While speaking to a crowd of right-wing student activists at the Texas Youth Summit, GOP Rep. Louie Gohmert suggests folks take the horse drug ivermectin - which has been giving folks diarrhea - to treat Covid-19. The students went wild in the crowd over the medical advice."
+
+The tweet has received 1203 retweets.
+
+The user who posted this tweet has a moderate following of 85,430 followers, which is not considered highly influential. The tweet has received 1,203 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it criticizes a GOP representative for suggesting the use of ivermectin, a horse drug, to treat COVID-19.
+
+The tweet aligns with a prevalent narrative of distrust in politicians and their handling of the COVID-19 pandemic. It also touches upon the controversial topic of ivermectin as a treatment for COVID-19, which has been a polarizing issue. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the context of the Texas Youth Summit, the statements made by the GOP representative, and the effects of ivermectin.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise, though the limited influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+197
+A user with 9256 followers has tweeted the following potentially misleading message:
+
+"Approval for COVID vaccine for kids 5-11 years-old unlikely before end of 2021, @NIHDirector Francis Collins tells @NPRinskeep on @MorningEdition. Data for it still not submitted to @US_FDA"
+
+The tweet has received 519 retweets.
+
+The user who posted this tweet has a moderate following of 9,256 followers, which is not considered highly influential. The tweet has received 519 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message does not contain strong emotional appeals or negative sentiment, but it does discuss the COVID vaccine for children, which is a topic of concern for many people.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs, but it does touch upon the vaccine approval process, which might resonate with people who are skeptical about vaccines and their safety. Debunking the message might require some level of expertise or knowledge-seeking efforts, as it involves understanding the vaccine approval process and the status of the COVID-19 vaccine for children.
+
+Considering these factors, the tweet might be believed by many in the given population due to the topic's relevance and the fact that debunking the message requires some level of expertise, though the low influence of the author and the low number of endorsements might limit its reach.
+
+Believable by many (yes or no): Yes
+1
+
+567
+A user with 129231149 followers has tweeted the following potentially misleading message:
+
+"@teslaownersSV Buyers of competing electric cars receive a $7500 tax credit, but Tesla does not"
+
+The tweet has received 3437 retweets.
+
+The user who posted this tweet has a massive following of over 129 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 3,437 retweets, which is a significant number, though not enough to be considered widely endorsed. The message does not contain strong emotional appeals or negative sentiment.
+
+The tweet does not directly align with any prevalent narratives or popular beliefs. However, it does touch upon the topic of electric cars and government incentives, which could be related to the prevalent narrative of distrust in technology and large tech companies. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the tax credit system for electric vehicles and the eligibility criteria for different car manufacturers.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the high influence of the author and the fact that debunking the message requires some level of expertise, despite the lack of strong emotional appeals and the low number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+515
+A user with 298997 followers has tweeted the following potentially misleading message:
+
+"We've proven time and time again that the 2020 election was stolen from President Trump. 
+
+It's long past time for state officials to DO something about it."
+
+The tweet has received 2137 retweets.
+
+The user who posted this tweet has a significant following of 298,997 followers, which might influence some people. The tweet has received 2,137 retweets, which is a considerable number but not enough to be considered widely endorsed. The message contains negative sentiment, as it implies that the 2020 election was stolen from President Trump, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in the government and politicians, specifically targeting the 2020 election results. This might resonate with people who already believe in election fraud or have negative views on the Democratic party. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the various claims of election fraud and the investigations that have taken place.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+598
+A user with 20174 followers has tweeted the following potentially misleading message:
+
+"WE REMEMBER in June of 1944
+George Stinney Jr. was the youngest person to be sentenced to death in the 20th century in the United States.
+
+He was only 14 years old when he was executed in an electric chair.
+
+1/6 https://t.co/GWgkXu0YSd"
+
+The message is followed by a photo of a young boy wearing a helmet
+
+The tweet has received 28960 retweets.
+
+The user who posted this tweet has a moderate following of 20,174 followers, which is not considered highly influential. However, the tweet has received a significant number of retweets (28,960), which indicates widespread endorsement and could trigger bandwagon behavior. The message contains strong emotional appeals, as it discusses the tragic story of a young boy who was executed. This negative sentiment could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a narrative of injustice and historical mistreatment, which might resonate with people who are concerned about social issues and the history of the United States. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the historical context and verifying the details of George Stinney Jr.'s case.
+
+Considering these factors, the tweet's message is likely to be believed by many in the given population due to the strong emotional appeals, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+512
+A user with 263 followers has tweeted the following potentially misleading message:
+
+"A tesla on auto pilot killed 4 construction workers in California yesterday"
+
+The tweet has received 11021 retweets.
+
+The user who posted this tweet has a small following of 263 followers, which is not considered highly influential. However, the tweet has received 11,021 retweets, which is a significant number and could trigger bandwagon behavior. The message contains negative sentiment, as it reports a fatal accident involving a Tesla on autopilot, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in technology and large tech companies, as it casts doubt on the safety of Tesla's autopilot feature. Debunking the message might require some effort or a certain level of expertise, as it involves verifying the details of the accident and understanding the limitations of Tesla's autopilot technology.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, the significant number of retweets, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+409
+A user with 446400 followers has tweeted the following potentially misleading message:
+
+".@TuckerCarlson tonight: “What if these bodies of tortured, dead civilians were staged? What if they’re fake? What if the Ukrainian military killed them &amp; then blamed Russia? I’m not saying any of this is true, I’m just asking the questions. Why can’t we ask these questions?”"
+
+The tweet has received 5174 retweets.
+
+The user who posted this tweet has a significant following of 446,400 followers, which might influence some people. The tweet has received 5,174 retweets, which is a considerable number, though not enough to be considered widely endorsed. The message contains negative sentiment, as it discusses tortured and dead civilians, which could sway people more than neutral or positive sentiment.
+
+The tweet aligns with a prevalent narrative of distrust in the mainstream news media, as it quotes Tucker Carlson questioning the authenticity of reported events and suggesting alternative explanations. This might resonate with people who are skeptical about the mainstream media's reporting. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the context of the conflict and verifying the authenticity of the reported events.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+507
+A user with 1945938 followers has tweeted the following potentially misleading message:
+
+"Apparently @slcschools has this book in their elementary schools and don’t want parents to know. https://t.co/ZJS0LQT18O"
+
+The message is followed by a screenshot at a certain time of a Facebook post from Utah Parents United, sharing a link to eBay.com for the book "My Body Is Growing: A Guide for Children, Ages 4 to 8" by Dagmar Geisler. The post claims that the book encourages inappropriate content and asks people to share the information.
+
+The tweet has received 3743 retweets.
+
+The user who posted this tweet has a large following of over 1.9 million followers, which is considered highly influential and might trigger bandwagon behavior. The tweet has received 3,743 retweets, which is a significant number, though not enough to be considered widely endorsed. The message contains negative sentiment, as it accuses a school district of having inappropriate content in their elementary schools and hiding it from parents.
+
+The tweet aligns with a prevalent narrative of distrust in the education system and concerns about the content being taught to children. This might resonate with people who are skeptical about the education system and the materials being used in schools. Debunking the message might require some effort or a certain level of expertise, as it involves verifying the presence of the book in the mentioned schools and understanding the content of the book to determine if it is inappropriate.
+
+Considering these factors, the tweet's message might be believed by many in the given population due to the negative sentiment, alignment with a prevalent narrative, and the fact that debunking the message requires some level of expertise.
+
+Believable by many (yes or no): Yes
+1
+
+18
+A user with 175831 followers has tweeted the following potentially misleading message:
+
+"Susan Collins was fine with speeding up the vote on Amy Coney Barrett but wants to hit the brakes on COVID relief. 
+https://t.co/XAQdV12jr9"
+
+The tweet has received 768 retweets.
+
+The user who posted this tweet has a moderate following of 175,831 followers, which is not considered highly influential. The tweet has received 768 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message contains negative sentiment, as it criticizes Senator Susan Collins for her actions regarding the vote on Amy Coney Barrett and COVID relief.
+
+The tweet aligns with a prevalent narrative of negative views on the Republican party and distrust in politicians. This might resonate with people who have negative opinions on the Republican party or are critical of politicians' actions. Debunking the message might require some effort or a certain level of expertise, as it involves understanding the context of the vote on Amy Coney Barrett and the COVID relief package, as well as the actions and statements of Senator Susan Collins.
+
+Considering these factors, the tweet might be believed by many in the given population due to the negative sentiment and alignment with a prevalent narrative, despite the moderate influence of the author and the low number of endorsements.
+
+Believable by many (yes or no): Yes
+1
+
+297
+A user with 138151 followers has tweeted the following potentially misleading message:
+
+"@BigBird @EricaRHill Uh oh https://t.co/vCG41Q8FSv"
+
+The tweet has received 840 retweets.
+
+As the tweet does not provide any context or information about the content of the linked material, it is difficult to evaluate its believability based on the factors provided. The user has a moderate following of 138,151 followers, and the tweet has received 840 retweets, which is not enough to indicate widespread endorsement or trigger bandwagon behavior. The message itself does not contain strong emotional appeals, negative sentiment, or alignment with prevalent narratives.
+
+Without knowing the content of the linked material, it is impossible to determine if debunking the message requires a certain level of expertise or if it aligns with any prevalent narratives or popular beliefs.
+
+Given the lack of context and information, it is not possible to determine if the tweet's message would be believed by many or by few in the given population.
+
+Believable by many (yes or no): Cannot determine
+0
+
+107
+A user with 1042 followers has tweeted the following potentially misleading message:
+
+"You're fucking kidding me. https://t.co/AYwwIcHsJ4"
+
+The message is followed by a screenshot at a certain time of a YouTube video titled "Rick Astley - Never Gonna Give You Up (Video)" with 961,621,928 views, posted on Oct 25, 2009. The video is from the Official Rick Astley channel with 2.19M subscribers. The description mentions that the video will be auctioned off as an NFT and removed from YouTube on June 27th, 2021.
+
+The tweet has received 4943 retweets.
+
+The user who posted this tweet has a small following of 1,042 followers, which is not considered highly influential. However, the tweet has received 4,943 retweets, which is a significant number and could trigger bandwagon behavior. The tweet contains negative sentiment, as indicated by the use of profanity, which could sway people more than neutral or positive sentiment.
+
+The message does not directly appeal to prevalent narratives such as distrust in the government, politicians, vaccines, technology, or mainstream news media. However, the idea of a popular video being removed from YouTube and auctioned off as an NFT could be seen as a negative development related to technology and digital ownership. This might resonate with people's concerns about technology and the direction of the internet and digital content, which is one of the prevalent polarizing narratives.
+
+Debunking the message does not require a high level of expertise, as one could simply visit the YouTube video and check its description or look for news articles about the auction. However, the population in question does not often think rationally or critically, which might make them less likely to verify the information.
+
+Considering these factors, it is possible that the tweet's message would be believed by many in the given population.
+
+Believable by many (yes or no): Yes
+1
+
+[0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+accuracy: 0.7571428571428571
+precision: 0.7796610169491526
+recall: 0.92
+f1 score: 0.8440366972477064
