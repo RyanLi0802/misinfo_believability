@@ -129,6 +129,34 @@ def get_topic(df, name):
     print(df.head())
     return df
 
+def get_topic_2(df):
+    df['topic2'] = ""
+    for idx, row in df.iterrows():
+        if idx % 100 == 0:
+            print(idx)
+        sys_prompt = prompts.topics2_sys
+        user_prompt = f'A user posted the following Tweet:\n"{row["text"]}"\n\n{prompts.topics2_user}'
+        # print(user_prompt)
+        # print()
+        try:
+            res = openai.ChatCompletion.create(
+                model="gpt-4",
+                messages=[
+                    {"role": "system", "content": sys_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+                temperature=0
+            )
+            df.at[idx, 'topic2'] = res.choices[0]['message']['content'].strip().replace('.', '')
+        except Exception as e:
+            print(row["tweetId"])
+            print(e)
+            
+    # df.to_csv(output_path, sep=',', index=False, header=True)
+    # print('saved to csv')
+    print(df.head())
+    return df
+
 def get_emotion(df, classifier):
     df['emotion'] = ''
     for idx, row in df.iterrows():
@@ -314,6 +342,17 @@ def process_topic(few, many):
         print()
     print()
 
+def process_topic_2(few, many):
+    print("processing topic 2...")
+    topic_few = few['topic2'].value_counts()
+    topic_many = many['topic2'].value_counts()
+    print("believable by few:")
+    print(topic_few)
+    print()
+    print("believable by many:")
+    print(topic_many)
+    print()
+
 def get_link(df):
     df['has_link'] = [1 if 'https://' in text else 0 for text in df['text']]
     # df.loc['https://' in df['text'], 'has_link'] = 1
@@ -355,15 +394,38 @@ def process_personal_tone(few, many):
     print()
     print()
 
+def process_date(df):
+    before_2022 = 0
+    since_2022 = 0
+    for idx, row in df.iterrows():
+        year = int(row['created_at'].split()[-1])
+        if year < 2022:
+            before_2022 += 1
+        else:
+            since_2022 += 1
+    print(f"before 2022: {before_2022}")
+    print(f"since 2022: {since_2022}")
+
 if __name__ == "__main__":
     openai.api_key = open('./models/.openai.key').read().replace('\n', '').replace('\r', '').strip()
     args = get_args()
     few, many = get_data()
     tweets = pd.read_csv('birdwatch-tweets-20230215.csv', low_memory=False)
-    few = get_sentiment(few, 'believable_by_few.csv')
-    many = get_sentiment(many, 'believable_by_many.csv')
-    few = get_personal_tone(few, 'believable_by_few.csv')
-    many = get_personal_tone(many, 'believable_by_many.csv')   
+    
+    survey_data = pd.read_csv('survey_data.csv', sep=',')
+    
+    survey_data["valid"] = True
+    survey_data.to_csv("survey_data.csv", sep=',', index=False, header=True)
+    
+    # few = add_columns(few, tweets, ['created_at'], rearrange=True)
+    # many = add_columns(many, tweets, ['created_at'], rearrange=True)
+    # few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
+    # many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
+    
+    # few = get_sentiment(few, 'believable_by_few.csv')
+    # many = get_sentiment(many, 'believable_by_many.csv')
+    # few = get_personal_tone(few, 'believable_by_few.csv')
+    # many = get_personal_tone(many, 'believable_by_many.csv')   
     
     if 'user_verified' not in few.columns:
         # tweets = tweets.rename(columns = {'id': 'tweetId'})
@@ -390,21 +452,30 @@ if __name__ == "__main__":
         liwc("believable_by_many.csv", "believable_by_many")
     
     if args.add_columns:
-        few = add_columns(few, tweets, args.add_columns, rearrange=args.rearrange)
-        many = add_columns(many, tweets, args.add_columns, rearrange=args.rearrange)
-        few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
-        many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
+        # few = add_columns(few, tweets, args.add_columns, rearrange=args.rearrange)
+        # many = add_columns(many, tweets, args.add_columns, rearrange=args.rearrange)
+        # few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
+        # many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
+        survey_data = add_columns(survey_data, tweets, args.add_columns, rearrange=args.rearrange)
+        survey_data.to_csv("survey_data.csv", sep=',', index=False, header=True)
         
-    if 'topic' not in few.columns:
-        few = get_topic(few, "believable by few")
-        many = get_topic(many, "believable by many")
-        few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
-        many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
-        print('saved to csv')
+    # if 'topic' not in few.columns:
+    #     few = get_topic(few, "believable by few")
+    #     many = get_topic(many, "believable by many")
+    #     few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
+    #     many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
+    #     print('saved to csv')
     
-    if 'toxicity' not in few.columns:
-        few = get_toxicity(few)
-        many = get_toxicity(many)
+    # if 'toxicity' not in few.columns:
+    #     few = get_toxicity(few)
+    #     many = get_toxicity(many)
+    #     few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
+    #     many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
+    #     print('saved to csv')
+    
+    if 'topic2' not in few.columns:
+        few = get_topic_2(few)
+        many = get_topic_2(many)
         few.to_csv("believable_by_few.csv", sep=',', index=False, header=True)
         many.to_csv("believable_by_many.csv", sep=',', index=False, header=True)
         print('saved to csv')
@@ -420,44 +491,57 @@ if __name__ == "__main__":
     #     threshold = combined_feature.quantile(0.8)
     #     print(f"80%% threshold of {feature}: {threshold}")
     
-    # user features
-    print("processing user features...")
-    process_user_verified(few, many)
-    user_features = ['user_followers_count','user_friends_count','user_favourites_count','user_listed_count','user_statuses_count']
-    for feature in user_features:
-        process_numerical_feature(few, many, feature)
+    # # user features
+    # print("processing user features...")
+    # process_user_verified(few, many)
+    # user_features = ['user_followers_count','user_friends_count','user_favourites_count','user_listed_count','user_statuses_count']
+    # for feature in user_features:
+    #     process_numerical_feature(few, many, feature)
         
-    # tweet features
-    print("processing tweet features")
-    tweet_features = ['favorite_count', 'retweet_count']
-    for feature in tweet_features:
-        process_numerical_feature(few, many, feature)
+    # # tweet features
+    # print("processing tweet features")
+    # tweet_features = ['favorite_count', 'retweet_count']
+    # for feature in tweet_features:
+    #     process_numerical_feature(few, many, feature)
     
-    # content data
-    print("processing content features...")
-    process_sentiment(few, many)
-    process_topic(few, many)
-    # process_emotion(few, many)
-    process_link(few, many)
-    process_personal_tone(few, many)
+    # # content data
+    # print("processing content features...")
+    # process_sentiment(few, many)
+    # process_topic(few, many)
+    # # process_emotion(few, many)
+    # process_link(few, many)
+    # process_personal_tone(few, many)
+    # process_topic_2(few, many)
     
-    # processing each emotion as numerical data
-    emotions = ["neutral", "fear", "anger", "surprise", "sadness", "joy", "disgust"]
-    for emotion in emotions:
-        process_numerical_feature(few, many, emotion, "distributions/emotions/")
+    process_date(survey_data)
+    
+    # print("processing user features...")
+    # user_features = ['user_followers_count','user_friends_count','user_favourites_count','user_listed_count','user_statuses_count']
+    # for feature in user_features:
+    #     process_numerical_feature(survey_data, survey_data, feature)
         
-    toxicity_features = ["toxicity", "severe_toxicity", "obscene", "identity_attack", "insult", "threat", "sexual_explicit"]
-    for toxicity_feature in toxicity_features:
-        process_numerical_feature(few, many, toxicity_feature, "distributions/toxicity/")
+    # print("processing tweet features")
+    # tweet_features = ['favorite_count', 'retweet_count']
+    # for feature in tweet_features:
+    #     process_numerical_feature(survey_data, survey_data, feature)
     
-    # liwc
-    print("processing liwc features")
-    liwc_few = pd.read_csv('believable_by_few_liwc.csv', sep=',')
-    liwc_many = pd.read_csv('believable_by_many_liwc.csv', sep=',')
-    # liwc_features = ["Analytic", "Clout", "Authentic", "affiliation", "achieve", "power", "moral", 
-    #                  "conflict", "ppron", "allnone", "swear", "allure", "curiosity", "insight", "cause", "discrep", "tentat", "certitude", "differ"]
-    liwc_features = liwc_many.columns.tolist()[2:]
-    for feature in liwc_features:
-        process_numerical_feature(liwc_few, liwc_many, feature, "distributions/LIWC/", True)
+    # # processing each emotion as numerical data
+    # emotions = ["neutral", "fear", "anger", "surprise", "sadness", "joy", "disgust"]
+    # for emotion in emotions:
+    #     process_numerical_feature(few, many, emotion, "distributions/emotions/")
+        
+    # toxicity_features = ["toxicity", "severe_toxicity", "obscene", "identity_attack", "insult", "threat", "sexual_explicit"]
+    # for toxicity_feature in toxicity_features:
+    #     process_numerical_feature(few, many, toxicity_feature, "distributions/toxicity/")
+    
+    # # liwc
+    # print("processing liwc features")
+    # liwc_few = pd.read_csv('believable_by_few_liwc.csv', sep=',')
+    # liwc_many = pd.read_csv('believable_by_many_liwc.csv', sep=',')
+    # # liwc_features = ["Analytic", "Clout", "Authentic", "affiliation", "achieve", "power", "moral", 
+    # #                  "conflict", "ppron", "allnone", "swear", "allure", "curiosity", "insight", "cause", "discrep", "tentat", "certitude", "differ"]
+    # liwc_features = liwc_many.columns.tolist()[2:]
+    # for feature in liwc_features:
+    #     process_numerical_feature(liwc_few, liwc_many, feature, "distributions/LIWC/", True)
     
     print("all done!")

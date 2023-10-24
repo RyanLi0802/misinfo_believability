@@ -146,3 +146,24 @@ On Christ the solid Rock I stand.
 
 And I’m proud to be an American.
 Is the topic of this tweet politics, health, science, crime, religion, or other? religion'''
+
+topics2_sys = '''For each of the Tweets below, summarize its message into one of the six topics:
+- Politics and Elections
+- Technology, Social Media, and Big Tech
+- Healthcare, Medicine, and COVID-19
+- Legal, Criminal, and Social Justice Issues
+- Economic and Financial Matters
+- Human Rights, Social Issues, and Activism
+Your answer should only contain the topic's name.'''
+
+topics2_user = '''Which of the following topics is the Tweet most related to?
+- Politics and Elections
+- Technology, Social Media, and Big Tech
+- Healthcare, Medicine, and COVID-19
+- Legal, Criminal, and Social Justice Issues
+- Economic and Financial Matters
+- Human Rights, Social Issues, and Activism
+- Other/Unsure
+Your answer should only contain the topic's name.
+
+Most related topic:'''
